@@ -1,4 +1,5 @@
-let intPage = 1;
+const { log } = require('console');
+
 let json = [];
 
 const codeNAF = ["62.01Z", "62.02A", "62.09Z", "58.29C", "58.21Z"];
@@ -69,7 +70,9 @@ function formatData(data) {
                 return {
                     "Adresse": etablissement.adresse,
                     "Activité": activiteMapping[etablissement.activite_principale] || "Activité inconnue",
-                    "Salariés": effectifMapping[etablissement.tranche_effectif_salarie] || "Tranche inconnue"
+                    "Salariés": effectifMapping[etablissement.tranche_effectif_salarie] || "Tranche inconnue",
+                    "latitude": etablissement.latitude,
+                    "longitude": etablissement.longitude
                 };
             });
 
@@ -99,7 +102,7 @@ async function getAllEntreprises() {
     }
 
     let formattedJson = formatData(json);
-    console.log(formattedJson);
+    log(formattedJson);
 
     var dictstring = JSON.stringify(formattedJson);
     
