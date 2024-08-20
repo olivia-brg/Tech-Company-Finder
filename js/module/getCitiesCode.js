@@ -1,9 +1,9 @@
-function buildURL(city) {
-    return `https://geo.api.gouv.fr/communes?nom=${city}&fields=departement&boost=population&limit=5`;
+function buildURL(cityName) {
+    return `https://geo.api.gouv.fr/communes?nom=${cityName}&fields=departement&boost=population&limit=5`;
 }
 
-export async function getCities(city) {
-    let url = buildURL(city);
+async function getCitiesData(cityName) {
+    let url = buildURL(cityName);
 
     try {
         const response = await fetch(url);
@@ -17,4 +17,17 @@ export async function getCities(city) {
         console.error(error.message);
         return null;
     }
+}
+
+export async function formatData (cityName) {
+    let json = [];
+
+    let rawData = await getCitiesData(cityName);
+    if (!rawData) return;
+
+    rawData.forEach(ville => {
+        json.push(ville.nom);
+    });
+
+    return json;
 }
