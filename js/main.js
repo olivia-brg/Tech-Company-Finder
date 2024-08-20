@@ -12,6 +12,7 @@ async function fetchCities(cityName) {
         cities.forEach(element => {
             let citySuggestion = document.createElement(`div`);
             citySuggestion.className = "city_suggestion";
+            citySuggestion.id = `${element[3]}`;
 
             let citySuggestionContent = `<p>${element[0]} | ${element[1]}, ${element[2]}</p>`;
 
@@ -37,18 +38,6 @@ export function callFetchCities() {
 }
 // Rend la fonction accessible globalement (pour être call dans index.html)
 window.callFetchCities = callFetchCities;
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // async function fetchCompaniesData() {
