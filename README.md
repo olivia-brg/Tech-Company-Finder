@@ -1,1 +1,1 @@
-##Tech-Company-Finder
+# Tech-Company-Finder
