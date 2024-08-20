@@ -82,13 +82,13 @@ function formatData(data) {
 }
 
 export async function getAllCompanies() {
-    let json = [];
-
+    
     let firstPageData = await getCompany(1);
     if (!firstPageData) return;
-
+    
     let totalPages = firstPageData.total_pages;
-
+    
+    let json = [];
     json.push(...firstPageData.results);
 
     for (let page = 2; page <= totalPages; page++) {
@@ -99,13 +99,5 @@ export async function getAllCompanies() {
     }
 
     return formatData(json);
-
-    // try {
-    //     let dictstring = JSON.stringify(formattedJson, null, 2);
-    //     await fs.writeFile("entreprise_tech.json", dictstring);
-    //     console.log("Fichier 'entreprise_tech.json' créé avec succès.");
-    // } catch (err) {
-    //     console.error("Erreur lors de l'écriture du fichier :", err);
-    // }
 
 }

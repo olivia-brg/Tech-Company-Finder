@@ -20,14 +20,14 @@ async function getCitiesData(cityName) {
 }
 
 export async function formatData (cityName) {
-    let json = [];
-
+    
     let rawData = await getCitiesData(cityName);
     if (!rawData) return;
-
-    rawData.forEach(ville => {
-        json.push(ville.nom);
+    
+    let city = [];
+    rawData.forEach(element => {
+        city.push([element.nom, element.departement.nom,element.departement.code, element.code]);
     });
 
-    return json;
+    return city;
 }
