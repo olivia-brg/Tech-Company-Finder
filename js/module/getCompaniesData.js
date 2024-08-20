@@ -1,10 +1,6 @@
-const { log } = require('console');
-
-let json = [];
-
 const codeNAF = ["62.01Z", "62.02A", "62.09Z", "58.29C", "58.21Z"];
 const codeCommunes = ["44109", "44162", "44204", "44190", "44035", "44201"];
-const codeEffectifSalarie = ["52", "51", "42", "41", "31", "22", "21", "12", "11"];
+const staffSizeCode = ["52", "51", "42", "41", "31", "22", "21", "12", "11"];
 
 const activiteMapping = {
     "58.21Z" : "Édition de jeux électroniques",
@@ -38,14 +34,14 @@ function createParamString(paramName, values) {
 }
 
 function buildURL(page) {
-    const activite = createParamString("activite_principale", codeNAF);
-    const allCommunes = createParamString("code_commune", codeCommunes);
-    const allEffectif = createParamString("tranche_effectif_salarie", codeEffectifSalarie);
+    const activity = createParamString("activite_principale", codeNAF);
+    const allCities = createParamString("code_commune", codeCommunes);
+    const allEffectif = createParamString("tranche_effectif_salarie", staffSizeCode);
 
-    return `https://recherche-entreprises.api.gouv.fr/search?${activite}&${allCommunes}&${allEffectif}&page=${page}&per_page=25`;
+    return `https://recherche-entreprises.api.gouv.fr/search?${activity}&${allCities}&${allEffectif}&page=${page}&per_page=25`;
 }
 
-async function getEntreprise(page) {
+async function getCompany(page) {
     let url = buildURL(page);
 
     try {
@@ -85,9 +81,10 @@ function formatData(data) {
     }).filter(entreprise => entreprise);
 }
 
-async function getAllEntreprises() {
-    let firstPageData = await getEntreprise(1);
-    
+export async function getAllCompanies() {
+    let json = [];
+
+    let firstPageData = await getCompany(1);
     if (!firstPageData) return;
 
     let totalPages = firstPageData.total_pages;
@@ -95,23 +92,20 @@ async function getAllEntreprises() {
     json.push(...firstPageData.results);
 
     for (let page = 2; page <= totalPages; page++) {
-        let pageData = await getEntreprise(page);
+        let pageData = await getCompany(page);
         if (pageData) {
             json.push(...pageData.results);
         }
     }
 
-    let formattedJson = formatData(json);
-    log(formattedJson);
+    return formatData(json);
 
-    var dictstring = JSON.stringify(formattedJson);
-    
-    var fs = require('fs');
-    fs.writeFile("entreprise_tech.json", dictstring, function(err, result) {
-        if(err) console.log('error', err);
-    });
+    // try {
+    //     let dictstring = JSON.stringify(formattedJson, null, 2);
+    //     await fs.writeFile("entreprise_tech.json", dictstring);
+    //     console.log("Fichier 'entreprise_tech.json' créé avec succès.");
+    // } catch (err) {
+    //     console.error("Erreur lors de l'écriture du fichier :", err);
+    // }
+
 }
-
-getAllEntreprises();
-
-
