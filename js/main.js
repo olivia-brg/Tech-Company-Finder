@@ -1,4 +1,4 @@
-import { fetchCities } from "./module/displayCities.js";
+import { fetchCities } from "./module/displayDropdownCities.js";
 import { fetchCompaniesData } from "./module/getCompaniesData.js";
 
 // Sert a delay fetchCities(), évite bug d'affichage lors de frappe trop rapide

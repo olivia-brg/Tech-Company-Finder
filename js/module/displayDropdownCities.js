@@ -1,5 +1,5 @@
-
 import { formatData as getCitiesNames } from "./getCities.js";
+import { displaySelectedCities } from "./displaySelectedCities.js";
 
 export let citiesArray = [];
 
@@ -12,6 +12,7 @@ function createCitySuggestionElement(cityData) {
     citySuggestion.innerHTML = `<p>${cityData[0]} | ${cityData[1]}, ${cityData[2]}</p>`;
     citySuggestion.addEventListener('click', () => {
         handleDivClick([cityData[0], cityData[3]]);
+        displaySelectedCities(citiesArray);
     });
     return citySuggestion;
 }
@@ -56,5 +57,5 @@ function handleDivClick(results) {
     document.getElementById("suggestions_villes").innerHTML = ``;
     citiesArray.push({ name: results[0], code: results[1]});
     console.log(citiesArray);
-    
 }
+

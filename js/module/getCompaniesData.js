@@ -28,7 +28,7 @@ const effectifMapping = {
     "NN" : "Effectif inconnu"
 };
 
-import { citiesArray } from "./displayCities.js";
+import { citiesArray } from "./displayDropdownCities.js";
 
 let cityCode = [];
 
@@ -94,6 +94,7 @@ export async function getAllCompanies() {
     let json = [];
     json.push(...firstPageData.results);
 
+    // A voir si je ne devrais pas limiter les résultats
     for (let page = 2; page <= totalPages; page++) {
         let pageData = await getCompany(page);
         if (pageData) {
