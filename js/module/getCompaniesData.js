@@ -1,5 +1,4 @@
 const codeNAF = ["62.01Z", "62.02A", "62.09Z", "58.29C", "58.21Z"];
-const codeCommunes = ["44109", "44162", "44204", "44190", "44035", "44201"];
 const staffSizeCode = ["52", "51", "42", "41", "31", "22", "21", "12", "11"];
 
 const activiteMapping = {
@@ -29,13 +28,17 @@ const effectifMapping = {
     "NN" : "Effectif inconnu"
 };
 
+import { citiesArray } from "./displayCities.js";
+
+let cityCode = [];
+
 function createParamString(paramName, values) {
     return `${paramName}=${values.join(',')}`;
 }
 
 function buildURL(page) {
     const activity = createParamString("activite_principale", codeNAF);
-    const allCities = createParamString("code_commune", codeCommunes);
+    const allCities = createParamString("code_commune", cityCode);
     const allEffectif = createParamString("tranche_effectif_salarie", staffSizeCode);
 
     return `https://recherche-entreprises.api.gouv.fr/search?${activity}&${allCities}&${allEffectif}&page=${page}&per_page=25`;
@@ -99,5 +102,16 @@ export async function getAllCompanies() {
     }
 
     return formatData(json);
+}
 
+export async function fetchCompaniesData() {
+    cityCode = citiesArray.map(city => city.code);
+    console.log(cityCode);
+    
+    try {
+        let companiesData = await getAllCompanies();
+        console.log(companiesData);
+    } catch (err) {
+        console.error("Erreur :", err);
+    }
 }
