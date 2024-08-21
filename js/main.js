@@ -1,43 +1,70 @@
 import { getAllCompanies } from "./module/getCompaniesData.js";
 import { formatData as getCitiesNames } from "./module/getCitiesCode.js";
 
+const cityInput = document.getElementById("input_ville");
+
 async function fetchCities(cityName) {
     try {
         let cities = await getCitiesNames(cityName);
-        console.log(cities);
 
-        document.getElementById("suggestions_villes").innerHTML= ``;
+        const citiesSuggestionDiv = document.getElementById("suggestions_villes");
+        citiesSuggestionDiv.innerHTML = ``;
 
-        let citiesSuggestionDiv = document.getElementById("suggestions_villes");
         cities.forEach(element => {
-            let citySuggestion = document.createElement(`div`);
+            const citySuggestion = document.createElement(`li`);
+            citySuggestion.style.border = "solid";
             citySuggestion.className = "city_suggestion";
-            citySuggestion.id = `${element[3]}`;
+            citySuggestion.addEventListener('click', () => {
+                handleDivClick([element[0], element[3]]);
+            });
 
-            let citySuggestionContent = `<p>${element[0]} | ${element[1]}, ${element[2]}</p>`;
-
+            const citySuggestionContent = `<p>${element[0]} | ${element[1]}, ${element[2]}</p>`;
             citySuggestion.innerHTML = citySuggestionContent;
             citiesSuggestionDiv.appendChild(citySuggestion);
         });
 
+        if (cityInput.value && !cities.length) {
+            const citySuggestion = document.createElement(`li`);
+            citySuggestion.style.border = "solid";
+            citySuggestion.className = "city_suggestion";
 
-} catch (err) {
-    console.error("Erreur :", err);
-}
+            const citySuggestionContent = `Aucun résultat`;
+            citySuggestion.innerHTML = citySuggestionContent;
+            citiesSuggestionDiv.appendChild(citySuggestion);
+        }
+
+    } catch (err) {
+        console.error("Erreur :", err);
+    }
 }
 
-// Sert a delay la récupération de valeur, évite bug de frappe trop rapide
+function handleDivClick(result) {
+    console.log(result[0], result[1]);
+    cityInput.value = ``;
+    document.getElementById("suggestions_villes").innerHTML = ``;
+}
+
+// Sert a delay fetchCities(), évite un bug de frappe trop rapide
 let debounceTimeout;
-
 export function callFetchCities() {
     clearTimeout(debounceTimeout);
 
     debounceTimeout = setTimeout(() => {
-        fetchCities(document.getElementById("input_ville").value);
-    }, 50);
+        fetchCities(cityInput.value);
+    }, 150); // <- valeur en ms du delay
 }
-// Rend la fonction accessible globalement (pour être call dans index.html)
+// Rend la fonction accessible pour le globale (peut-être call dans index.html)
 window.callFetchCities = callFetchCities;
+
+
+
+
+
+
+
+
+
+
 
 
 // async function fetchCompaniesData() {
