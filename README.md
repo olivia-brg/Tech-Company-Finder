@@ -1,1 +1,1 @@
-# Tech-Company-Finder
+# Companies-Scanner
