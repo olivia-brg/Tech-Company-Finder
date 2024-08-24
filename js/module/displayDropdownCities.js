@@ -55,6 +55,11 @@ export async function fetchCities(cityName) {
 function handleDivClick(results) {
     cityInput.value = ``;
     document.getElementById("suggestions_villes").innerHTML = ``;
+    for (let i = 0; i < citiesArray.length; i++) {
+        if (results[0] == citiesArray[i].name){
+            return
+        }
+    }
     citiesArray.push({ name: results[0], code: results[1]});
     console.log(citiesArray);
 }

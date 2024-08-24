@@ -9,9 +9,14 @@
 
 <body>
     <script type="module" src="./js/main.js"></script>
+    <div id="navbar">
+        <button class="bouton_navbar" id="filtre_ville">Villes</button>
+        <button class="bouton_navbar" id="filtre_activite">Activité</button>
+        <button class="bouton_navbar" id="filtre_taille">Taille de l'entreprise</button>
+        <button type="button" id="search_button"
+        onclick="searchCompanies()">Rechercher</button> 
+    </div>
 
-    <button type="button" id="search_button"
-    onclick="searchCompanies()">Rechercher</button> 
 
     <input type="text" id="input_ville"
     onchange

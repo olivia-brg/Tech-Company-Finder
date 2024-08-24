@@ -1,15 +1,30 @@
-const codeNAF = ["62.01Z", "62.02A", "62.09Z", "58.29C", "58.21Z"];
+const codeNAF = [
+    "58.21Z",
+    "58.29A",
+    "58.29C",
+    "62.01Z",
+    "62.02A",
+    "62.02B",
+    "62.03Z",
+    "62.09Z",
+    "63.11Z",
+    "63.12Z"
+];
 const staffSizeCode = ["52", "51", "42", "41", "31", "22", "21", "12", "11"];
 
 const activiteMapping = {
-    "58.21Z" : "Édition de jeux électroniques",
-    "58.29C" : "Édition de logiciels applicatifs",
+    "58.21Z": "Édition de jeux électroniques",
+    "58.29A": "Édition de logiciels système et de réseau (domaine pas totalement en lien mais intéressant de checker)",
+    "58.29C": "Édition de logiciels applicatifs",
     "62.01Z": "Programmation informatique",
     "62.02A": "Conseil en systèmes et logiciels informatiques",
-    "62.03Z" : "Gestion d'installations informatiques",
-    "62.09Z" : "Autres activités informatiques",
-    "63.11Z" : "Traitement de données, hébergement et activités connexes"
+    "62.02B": "Tierce maintenance de systèmes et d'applications informatiques",
+    "62.03Z": "Gestion d'installations informatiques",
+    "62.09Z": "Autres activités informatiques",
+    "63.11Z": "Traitement de données, hébergement et activités connexes (domaine pas totalement en lien mais intéressant de checker)",
+    "63.12Z": "Portails Internet (domaine pas totalement en lien mais intéressant de checker)"
 };
+
 
 const effectifMapping = {
     "00" : "0 salarié",
