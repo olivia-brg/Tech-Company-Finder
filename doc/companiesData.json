@@ -1,0 +1,6095 @@
+[
+  {
+    "Entreprise": "BERNARD WERMELINGER",
+    "Etablissements": [
+      {
+        "Adresse": "LE PARC DE DIANE 16 RUE DE LA FONDERIE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.200763",
+        "longitude": "-1.52728"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ERWAN PINAULT",
+    "Etablissements": [
+      {
+        "Adresse": "L AUBINIERE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.258523",
+        "longitude": "-1.495019"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VICTOR LOUVEAU",
+    "Etablissements": [
+      {
+        "Adresse": "20 RUE AMEDEE MENARD 44300 NANTES",
+        "Activité": "68.20B",
+        "Salariés": null,
+        "latitude": "47.235159",
+        "longitude": "-1.55939"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ETIENNE GRAFF",
+    "Etablissements": [
+      {
+        "Adresse": "54 RUE GENERAL DE SONIS 44000 NANTES",
+        "Activité": "43.32A",
+        "Salariés": null,
+        "latitude": "47.22843",
+        "longitude": "-1.548126"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MOHAMED BAYO",
+    "Etablissements": [
+      {
+        "Adresse": "CHEZ CCAS DOMICIALIATION 142870 2 T RUE PRESIDENT EDOUARD HERRIOT 44000 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.218242",
+        "longitude": "-1.559577"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DIDIER ALMIN",
+    "Etablissements": [
+      {
+        "Adresse": "PROGRAMME YLEO BOULEVARD GENERAL DE GAULLE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.205855",
+        "longitude": "-1.538706"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PASCAL CHERRIER",
+    "Etablissements": [
+      {
+        "Adresse": "19 ALLEE COMMANDANT CHARCOT 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.216919",
+        "longitude": "-1.546152"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN POUPEAU",
+    "Etablissements": [
+      {
+        "Adresse": "22 RUE ETIENNE LARCHEY 44000 NANTES",
+        "Activité": "85.59A",
+        "Salariés": null,
+        "latitude": "47.226325",
+        "longitude": "-1.527714"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JACQUES COUSIN",
+    "Etablissements": [
+      {
+        "Adresse": "PATIO SERENA 3 PLACE DE LA CROIX BONNEAU 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.209441",
+        "longitude": "-1.59722"
+      }
+    ]
+  },
+  {
+    "Entreprise": "REBECCA FAURE (MASSON)",
+    "Etablissements": [
+      {
+        "Adresse": "LA RAGOTIERE CHEMIN DU BAS 44300 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.229944",
+        "longitude": "-1.490996"
+      }
+    ]
+  },
+  {
+    "Entreprise": "RACHID BELARBI",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE SAMUEL DE CHAMPLAIN 44300 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.259915",
+        "longitude": "-1.573663"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ASSOCIATION D'APPROPRIATION ET VALORISATION DE TERRES CONGOLAISES (ARTC)",
+    "Etablissements": [
+      {
+        "Adresse": "47 RUE HENRI EUGENE GOUILLARD 44100 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.219109",
+        "longitude": "-1.594597"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ANNICK RICORDEL (DRION)",
+    "Etablissements": [
+      {
+        "Adresse": "22 CHEMIN DE LA LANDE SAINT JOSEPH 44100 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.211566",
+        "longitude": "-1.592741"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ERIC ROBIN",
+    "Etablissements": [
+      {
+        "Adresse": "81 ROUTE DE PARIS 44300 NANTES",
+        "Activité": "70.2A",
+        "Salariés": null,
+        "latitude": "47.251168",
+        "longitude": "-1.517998"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DOMINIQUE TEIGNE",
+    "Etablissements": [
+      {
+        "Adresse": "6 CHEMIN RENAUD 44100 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.213517",
+        "longitude": "-1.581511"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES HAUTS BOIS (LES HAUTS BOIS)",
+    "Etablissements": [
+      {
+        "Adresse": "12 IMPASSE DE LA ROSIERE D'ARTOIS 44100 NANTES",
+        "Activité": "01.11Z",
+        "Salariés": null,
+        "latitude": "47.212726",
+        "longitude": "-1.568105"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FERME DE DOULON MICRO POUSSES NANTAISES",
+    "Etablissements": [
+      {
+        "Adresse": "30 RUE THOMAS MAISONNEUVE 44000 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.233629",
+        "longitude": "-1.55064"
+      },
+      {
+        "Adresse": "20 BOULEVARD DE LA LOUETRIE 44300 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": "02",
+        "latitude": "47.239803",
+        "longitude": "-1.500935"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ANNE GIRARDEAU",
+    "Etablissements": [
+      {
+        "Adresse": "54 B ROUTE DE LA JONELIERE 44300 NANTES",
+        "Activité": "90.01Z",
+        "Salariés": null,
+        "latitude": "47.252032",
+        "longitude": "-1.549152"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BERTRAND CHAPALAIN",
+    "Etablissements": [
+      {
+        "Adresse": "RENE CASSIN APP A 0215 LOT 064 41 BOULEVARD ALBERT EINSTEIN 44300 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.264188",
+        "longitude": "-1.573639"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE JARDIN DU CHEF",
+    "Etablissements": [
+      {
+        "Adresse": "33 RUE DE RIEUX 44000 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": "01",
+        "latitude": "47.210578",
+        "longitude": "-1.546271"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EARL MECHINAUD",
+    "Etablissements": [
+      {
+        "Adresse": "CASE 21 SUD MIN 58 BOULEVARD GUSTAVE ROCH 44200 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.203981",
+        "longitude": "-1.551071"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN-CHARLES BESSIERE (O'JARDIN PLANTES)",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE LA MADELEINE APT 182 182 BOULEVARD GUSTAVE ROCH 44200 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.203981",
+        "longitude": "-1.551071"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LILIA CHASLERIE",
+    "Etablissements": [
+      {
+        "Adresse": "CHEMIN DE BOISBONNE 44300 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.285623",
+        "longitude": "-1.511778"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURA GUILLEMOT",
+    "Etablissements": [
+      {
+        "Adresse": "CHE DU BOIS DES ANSES 44000 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.218227",
+        "longitude": "-1.531811"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAUCO",
+    "Etablissements": [
+      {
+        "Adresse": "7 B CHEMIN DE LA BOUCARDIERE 44100 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.202421",
+        "longitude": "-1.599958"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAMISSE",
+    "Etablissements": [
+      {
+        "Adresse": "L ANGLE CHAILLOU 44000 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.269122",
+        "longitude": "-1.570562"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MON PETIT PRODUCTEUR",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE MORAND 44000 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": "NN",
+        "latitude": "47.231673",
+        "longitude": "-1.538656"
+      }
+    ]
+  },
+  {
+    "Entreprise": "L'ALOUETTE RIT, FERME VIVANTE",
+    "Etablissements": [
+      {
+        "Adresse": "20 BOULEVARD DE LA LOUETRIE 44300 NANTES",
+        "Activité": "01.13Z",
+        "Salariés": null,
+        "latitude": "47.239803",
+        "longitude": "-1.500935"
+      }
+    ]
+  },
+  {
+    "Entreprise": "23 DEGRE",
+    "Etablissements": [
+      {
+        "Adresse": "4 B RUE PIERRE LANDAIS 44200 NANTES",
+        "Activité": "01.19Z",
+        "Salariés": null,
+        "latitude": "47.205681",
+        "longitude": "-1.557717"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JOSEPH BATARD",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE POLARIS 2 PLOT 5 10 BOULEVARD VINCENT GACHE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.206642",
+        "longitude": "-1.542579"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PIERRE MONNARD",
+    "Etablissements": [
+      {
+        "Adresse": "POLARIS 1 5 BOULEVARD GASTON DOUMERGUE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.207798",
+        "longitude": "-1.545705"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROLLAND GAP",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE CITE DES CONGRES 5 BOULEVARD GASTON DOUMERGUE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.207798",
+        "longitude": "-1.545705"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN MERCIER",
+    "Etablissements": [
+      {
+        "Adresse": "132 RUE DU BOIS HARDY 44100 NANTES",
+        "Activité": "68.20B",
+        "Salariés": null,
+        "latitude": "47.206171",
+        "longitude": "-1.599348"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DOMAINE LES QUATRE JOURNAUX",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE D'ANGOUMOIS 44000 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.224309",
+        "longitude": "-1.56736"
+      }
+    ]
+  },
+  {
+    "Entreprise": "M MARIE D AVIGNEAU (PAYEN DELAGARANDERIE)",
+    "Etablissements": [
+      {
+        "Adresse": "30 RUE CONDORCET 44100 NANTES",
+        "Activité": "01.21Z",
+        "Salariés": null,
+        "latitude": "47.220041",
+        "longitude": "-1.584085"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MIKAEL ROUSSET",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE BABONNEAU 44100 NANTES",
+        "Activité": "01.21Z",
+        "Salariés": null,
+        "latitude": "47.207748",
+        "longitude": "-1.576495"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ASCAMP",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE DE MASCARA 44100 NANTES",
+        "Activité": "01.21Z",
+        "Salariés": null,
+        "latitude": "47.210642",
+        "longitude": "-1.568649"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PHILIPPE ROUSSEL",
+    "Etablissements": [
+      {
+        "Adresse": "57 RUE DES FRERES AMIEUX 44100 NANTES",
+        "Activité": "01.21Z",
+        "Salariés": null,
+        "latitude": "47.199979",
+        "longitude": "-1.611569"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES ARPENTIS",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE FELLONNEAU 44000 NANTES",
+        "Activité": "01.21Z",
+        "Salariés": null,
+        "latitude": "47.230769",
+        "longitude": "-1.554956"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES VIGNES DU QUERY",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE LOUIS MARIN 44200 NANTES",
+        "Activité": "01.21Z",
+        "Salariés": null,
+        "latitude": "47.202414",
+        "longitude": "-1.54337"
+      }
+    ]
+  },
+  {
+    "Entreprise": "THIERRY LAMBERT",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE LA BEAUJOIRE 4 ALLEE BALTARD 44300 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.254409",
+        "longitude": "-1.515516"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOPHIE HUNEAULT",
+    "Etablissements": [
+      {
+        "Adresse": "20 RUE RACINE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.214136",
+        "longitude": "-1.564691"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BAPTISTE CHESNAIS",
+    "Etablissements": [
+      {
+        "Adresse": "LE SEXTANT 82 BOULEVARD SAINT AIGNAN 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.206613",
+        "longitude": "-1.579469"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURENT ARNAUD",
+    "Etablissements": [
+      {
+        "Adresse": "TOUR BRETAGNE PLACE DE BRETAGNE 44000 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.217591",
+        "longitude": "-1.559055"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN-ROCH VINET",
+    "Etablissements": [
+      {
+        "Adresse": "6 B RUE FRANCOIS MAURIAC 44300 NANTES",
+        "Activité": "96.09Z",
+        "Salariés": null,
+        "latitude": "47.248345",
+        "longitude": "-1.569694"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JARDIN DE LA MEVELLIERE",
+    "Etablissements": [
+      {
+        "Adresse": "12 RUE DE LA LAICITE 44000 NANTES",
+        "Activité": "01.27Z",
+        "Salariés": null,
+        "latitude": "47.227196",
+        "longitude": "-1.539612"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HOUBLON DE L'OUEST",
+    "Etablissements": [
+      {
+        "Adresse": "CHAMBRE D'AGRICULTURE RUE PIERRE ADOLPHE BOBIERRE 44300 NANTES",
+        "Activité": "01.27Z",
+        "Salariés": null,
+        "latitude": "47.26502",
+        "longitude": "-1.565356"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CECILE MONTIER",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE KLEBER 44000 NANTES",
+        "Activité": "90.03B",
+        "Salariés": null,
+        "latitude": "47.213537",
+        "longitude": "-1.5656"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ANNE KERMAGORET",
+    "Etablissements": [
+      {
+        "Adresse": "7 B BOULEVARD GABRIEL LAURIOL 44300 NANTES",
+        "Activité": "47.21Z",
+        "Salariés": null,
+        "latitude": "47.235068",
+        "longitude": "-1.563508"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HUGUES BENARD (STAND AGRICOLE DU 17EME)",
+    "Etablissements": [
+      {
+        "Adresse": "RUE LA TOUR D'AUVERGNE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.206215",
+        "longitude": "-1.557181"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VALERIE STOLL-RIVRAIN (STOLL)",
+    "Etablissements": [
+      {
+        "Adresse": "13 ALLEE COMMANDANT CHARCOT 44000 NANTES",
+        "Activité": "90.01Z",
+        "Salariés": null,
+        "latitude": "47.217348",
+        "longitude": "-1.545089"
+      }
+    ]
+  },
+  {
+    "Entreprise": "YANN ROLLAND",
+    "Etablissements": [
+      {
+        "Adresse": "RES PATIO SERENA 3 PLACE DE LA CROIX BONNEAU 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.209441",
+        "longitude": "-1.59722"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURENT TESSIER",
+    "Etablissements": [
+      {
+        "Adresse": "LE SEXTANT 80 BOULEVARD SAINT AIGNAN 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.206857",
+        "longitude": "-1.579304"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURENT LE DROGOFF",
+    "Etablissements": [
+      {
+        "Adresse": "16 RUE DES BOURDONNIERES 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.188838",
+        "longitude": "-1.519526"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAUL CHARRIAU",
+    "Etablissements": [
+      {
+        "Adresse": "LE COURS D'ALLONVILLE 2 RUE D'ALLONVILLE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.224972",
+        "longitude": "-1.530987"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GILLES TARDY",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DES CITRINES 44300 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.259983",
+        "longitude": "-1.498168"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL RIO",
+    "Etablissements": [
+      {
+        "Adresse": "12 AVENUE DU CLOS DU CENS 44300 NANTES",
+        "Activité": "01.41Z",
+        "Salariés": null,
+        "latitude": "47.249115",
+        "longitude": "-1.573209"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN-MARIE CHAUVEAU",
+    "Etablissements": [
+      {
+        "Adresse": "APPART'CITY CHATEAU DES DU 4 RUE FOURE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.214242",
+        "longitude": "-1.546307"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ALAIN PASQUIER",
+    "Etablissements": [
+      {
+        "Adresse": "APPART'CITY CHATEAU DES DUCS 4 RUE FOURE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.214242",
+        "longitude": "-1.546307"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PIERRE DOUCIN",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE ALFRED KASTLER 44300 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.282214",
+        "longitude": "-1.519661"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL GOURDET",
+    "Etablissements": [
+      {
+        "Adresse": "18 RUE AMEDEE MENARD 44300 NANTES",
+        "Activité": "68.20B",
+        "Salariés": null,
+        "latitude": "47.234964",
+        "longitude": "-1.559725"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FRANCOIS BUZON",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE DE L'OUCHETTE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.231895",
+        "longitude": "-1.532256"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SANDRINE GESTER (ETIENNE)",
+    "Etablissements": [
+      {
+        "Adresse": "12 BOULEVARD DES BELGES 44300 NANTES",
+        "Activité": "68.20B",
+        "Salariés": null,
+        "latitude": "47.234149",
+        "longitude": "-1.537258"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ELEVAGE D'ECHALLENS",
+    "Etablissements": [
+      {
+        "Adresse": "15 PASSAGE FELIBIEN 44300 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.221481",
+        "longitude": "-1.569052"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ECURIE FAST",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE FLANDRES DUNKERQUE 40 44300 NANTES",
+        "Activité": "01.43Z",
+        "Salariés": null,
+        "latitude": "47.210787",
+        "longitude": "-1.565853"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ELEVEN HORSE S.L",
+    "Etablissements": [
+      {
+        "Adresse": "29 RUE DU CALVAIRE DE GRILLAUD 44100 NANTES",
+        "Activité": "01.43Z",
+        "Salariés": null,
+        "latitude": "47.219068",
+        "longitude": "-1.581121"
+      }
+    ]
+  },
+  {
+    "Entreprise": "A2LHORSES",
+    "Etablissements": [
+      {
+        "Adresse": "23 RUE LEON JOST 44300 NANTES",
+        "Activité": "01.43Z",
+        "Salariés": null,
+        "latitude": "47.237776",
+        "longitude": "-1.565484"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ECURIE DES MOUILLOTINS",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE LE NOTRE 44000 NANTES",
+        "Activité": "01.43Z",
+        "Salariés": null,
+        "latitude": "47.219581",
+        "longitude": "-1.557486"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PIERRICK HALGAND",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE LE PARC DE DIANE 16 RUE DE LA FONDERIE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.200763",
+        "longitude": "-1.52728"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CELINE TAHRAOUI (NICOLAS)",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE DU POULIGUEN 44300 NANTES",
+        "Activité": "52.6D",
+        "Salariés": null,
+        "latitude": "47.240817",
+        "longitude": "-1.543775"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PASCAL PENNEAU",
+    "Etablissements": [
+      {
+        "Adresse": "63 BOULEVARD VICTOR HUGO 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.202152",
+        "longitude": "-1.54796"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PASCAL FERRE",
+    "Etablissements": [
+      {
+        "Adresse": "APPART'CITY CHATEAU DES DU 4 RUE FOURE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.214242",
+        "longitude": "-1.546307"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PHILIPPE CHANSON",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE LE  PATIO SERENA 3 PLACE DE LA CROIX BONNEAU 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.209441",
+        "longitude": "-1.59722"
+      }
+    ]
+  },
+  {
+    "Entreprise": "RANGEARD",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE CHAPTAL 44100 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.210339",
+        "longitude": "-1.573717"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ERIC DAVALO",
+    "Etablissements": [
+      {
+        "Adresse": "8 PLACE FRANCOIS II 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.206083",
+        "longitude": "-1.556869"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOCIETE DU CONSERVATOIRE AVICOLE DE LOIRE ATLANTIQUE (SOCALA)",
+    "Etablissements": [
+      {
+        "Adresse": "2 ROUTE DE PARIS 44300 NANTES",
+        "Activité": "01.47Z",
+        "Salariés": null,
+        "latitude": "47.248549",
+        "longitude": "-1.520661"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAUL CATTENOZ",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE CHARLES BRUNELLIERE 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.209168",
+        "longitude": "-1.569149"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PHILIPPE FELIN (FELIU)",
+    "Etablissements": [
+      {
+        "Adresse": "41 RUE ARAGO 44100 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.20666",
+        "longitude": "-1.587067"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GILLES CHARIEAU",
+    "Etablissements": [
+      {
+        "Adresse": "APPARTEMENT 21 21 RUE LEON JOST 44300 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.237719",
+        "longitude": "-1.565333"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARIE BESSIN (RENAUT)",
+    "Etablissements": [
+      {
+        "Adresse": "APPART'CITY CHATEAU DES DU 4 RUE FOURE 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.214242",
+        "longitude": "-1.546307"
+      }
+    ]
+  },
+  {
+    "Entreprise": "RAMIN KAMYAB GOUVERNEUR (KAMYAB CHENARI)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DUGAST MATIFEUX 44000 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.220394",
+        "longitude": "-1.548548"
+      },
+      {
+        "Adresse": "2 RUE DUGAST MATIFEUX 44000 NANTES",
+        "Activité": "47.91A",
+        "Salariés": null,
+        "latitude": "47.220394",
+        "longitude": "-1.548548"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANE GUEHENNEUX",
+    "Etablissements": [
+      {
+        "Adresse": "3 B RUE LAMORICIERE 44100 NANTES",
+        "Activité": "47.89Z",
+        "Salariés": null,
+        "latitude": "47.210393",
+        "longitude": "-1.570861"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROSA MARIA GOMES DE ALMEIDA",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE DE LA BASINERIE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.23844",
+        "longitude": "-1.517776"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VIRGINIE JUTARD",
+    "Etablissements": [
+      {
+        "Adresse": "184 ROUTE DE SAINT JOSEPH 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.247469",
+        "longitude": "-1.530927"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FREDERIC MATHIEU",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE DES SIX AQUEDUCS 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.213996",
+        "longitude": "-1.594657"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANE ROPERS",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DE HONGRIE 44000 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.216568",
+        "longitude": "-1.523459"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FRANCIS GUILLOUT",
+    "Etablissements": [
+      {
+        "Adresse": "60 RUE DU JAMET 44100 NANTES",
+        "Activité": "62.02A",
+        "Salariés": null,
+        "latitude": "47.209834",
+        "longitude": "-1.603658"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GERARD BERTHOLET",
+    "Etablissements": [
+      {
+        "Adresse": "16 RUE DE LA FONDERIE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.200763",
+        "longitude": "-1.52728"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DAVID MELLEC",
+    "Etablissements": [
+      {
+        "Adresse": "6 PROMENADE EUROPA 44200 NANTES 6 PROMENADE EUROPA 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.208738",
+        "longitude": "-1.539387"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL BLANLOEIL",
+    "Etablissements": [
+      {
+        "Adresse": "CCAS - 17308 TSA 83627 1 B PLACE SAINT SIMILIEN 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.220022",
+        "longitude": "-1.558402"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHANNI AGRI (CHANNI AGRI) (CA)",
+    "Etablissements": [
+      {
+        "Adresse": "57 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.220923",
+        "longitude": "-1.548235"
+      },
+      {
+        "Adresse": "2 PLACE JEAN V 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.212243",
+        "longitude": "-1.565357"
+      }
+    ]
+  },
+  {
+    "Entreprise": "K M VITI SERVICES",
+    "Etablissements": [
+      {
+        "Adresse": "BUREAU 3 2 PLACE JEAN V 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.212243",
+        "longitude": "-1.565357"
+      },
+      {
+        "Adresse": "144 RUE PAUL BELLAMY 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.229071",
+        "longitude": "-1.562215"
+      }
+    ]
+  },
+  {
+    "Entreprise": "INTER ASSOCIATIONS POUR LE MAINTIEN D'UNE AGRICULTURE PAYSANNE DE LOIRE-ATLANTIQUE (INTER AMAP 44)",
+    "Etablissements": [
+      {
+        "Adresse": "1 BOULEVARD BOULAY PATY 44100 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.229259",
+        "longitude": "-1.575616"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PRESTA GREEN (PRESTA GREEN) (PG)",
+    "Etablissements": [
+      {
+        "Adresse": "BUREAU 3 57 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.220923",
+        "longitude": "-1.548235"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VIGNOBLE FEUILLE VERTE",
+    "Etablissements": [
+      {
+        "Adresse": "57 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.220923",
+        "longitude": "-1.548235"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SB VITI SERVICES",
+    "Etablissements": [
+      {
+        "Adresse": "41-43 41 QUAI MALAKOFF 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.214444",
+        "longitude": "-1.540784"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JS TRAVAUX SERVICES",
+    "Etablissements": [
+      {
+        "Adresse": "41 QUAI MALAKOFF 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.214444",
+        "longitude": "-1.540784"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LOIRE AGRICOLES",
+    "Etablissements": [
+      {
+        "Adresse": "17 BOULEVARD DE BERLIN 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.21625",
+        "longitude": "-1.537549"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BH AGRI (BH AGRI) (BHA)",
+    "Etablissements": [
+      {
+        "Adresse": "41-43 41 QUAI MALAKOFF 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.214444",
+        "longitude": "-1.540784"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA MAIN VERTE D'ANES",
+    "Etablissements": [
+      {
+        "Adresse": "5 BOULEVARD VINCENT GACHE 44200 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.206411",
+        "longitude": "-1.54178"
+      }
+    ]
+  },
+  {
+    "Entreprise": "YANISS SERVICE",
+    "Etablissements": [
+      {
+        "Adresse": "12 RUE DE LA FANTAISIE 44300 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.253667",
+        "longitude": "-1.575325"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GRAPPE  CLEAN",
+    "Etablissements": [
+      {
+        "Adresse": "BUREAU 3 57 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.220923",
+        "longitude": "-1.548235"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MOHAMMED AKASSOUATE",
+    "Etablissements": [
+      {
+        "Adresse": "BUREAU 3 57 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": null,
+        "Salariés": null,
+        "latitude": "47.220923",
+        "longitude": "-1.548235"
+      },
+      {
+        "Adresse": "BUREAU 3 2 PLACE JEAN V 44000 NANTES",
+        "Activité": null,
+        "Salariés": null,
+        "latitude": "47.212243",
+        "longitude": "-1.565357"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MOHAMED EL HARRAS (PRESTA SERVICE)",
+    "Etablissements": [
+      {
+        "Adresse": "BUREAU 3 57 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "01.61Z",
+        "Salariés": null,
+        "latitude": "47.220923",
+        "longitude": "-1.548235"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EQUITATION INVESTISSEMENTS GT",
+    "Etablissements": [
+      {
+        "Adresse": "62 AVENUE CAMUS 44000 NANTES",
+        "Activité": "01.62Z",
+        "Salariés": null,
+        "latitude": "47.219798",
+        "longitude": "-1.574586"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FREDERIC BARRAIS (TOND TON FRED)",
+    "Etablissements": [
+      {
+        "Adresse": "9 RUE DE JOIGNY 44100 NANTES",
+        "Activité": "01.62Z",
+        "Salariés": null,
+        "latitude": "47.212334",
+        "longitude": "-1.607115"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOKYUNG BERNA-NOLLEAU (KWON) (BERNA-NOLLEAU BOKYUNG)",
+    "Etablissements": [
+      {
+        "Adresse": "6 RUE LINNE 44100 NANTES",
+        "Activité": "01.62Z",
+        "Salariés": null,
+        "latitude": "47.21108",
+        "longitude": "-1.572573"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VICTORIA GRONDIN",
+    "Etablissements": [
+      {
+        "Adresse": "5 AVENUE DE L'ARMORIAL 44300 NANTES",
+        "Activité": "01.62Z",
+        "Salariés": null,
+        "latitude": "47.26028",
+        "longitude": "-1.517232"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FRANCOISE LE LAY",
+    "Etablissements": [
+      {
+        "Adresse": "106 RUE GAMBETTA 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.220435",
+        "longitude": "-1.547497"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DOMINIQUE SANSON (DUCRE)",
+    "Etablissements": [
+      {
+        "Adresse": "57 BOULEVARD DES ANGLAIS 44100 NANTES",
+        "Activité": "90.01Z",
+        "Salariés": null,
+        "latitude": "47.228471",
+        "longitude": "-1.577619"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRIGITTE MAZUEL",
+    "Etablissements": [
+      {
+        "Adresse": "PROGRAMME YLEO BOULEVARD GENERAL DE GAULLE 44200 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.205855",
+        "longitude": "-1.538706"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JACQUES DE L ESTANG DU RUSQUEC",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE CITEA NANTES VIARME 46 RUE RUSSEIL 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.223645",
+        "longitude": "-1.561218"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER DE POINCY",
+    "Etablissements": [
+      {
+        "Adresse": "21 RUE DE LA PELLETERIE 44000 NANTES",
+        "Activité": "02.10Z",
+        "Salariés": null,
+        "latitude": "47.22486",
+        "longitude": "-1.569953"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FONCIER RURAL MADETTE DROUET D'AUBIGNY",
+    "Etablissements": [
+      {
+        "Adresse": "12 RUE D'AGUESSEAU 44000 NANTES",
+        "Activité": "02.10Z",
+        "Salariés": null,
+        "latitude": "47.219353",
+        "longitude": "-1.553232"
+      }
+    ]
+  },
+  {
+    "Entreprise": "INDIVISION SAY",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE DES CAPITAINES DE CLERVILLE 44000 NANTES",
+        "Activité": "02.10Z",
+        "Salariés": null,
+        "latitude": "47.223134",
+        "longitude": "-1.560378"
+      }
+    ]
+  },
+  {
+    "Entreprise": "RESILIENCE SYLVICULTURE ET REBOISSEMENT",
+    "Etablissements": [
+      {
+        "Adresse": "12 AVENUE CARNOT 44000 NANTES",
+        "Activité": "02.10Z",
+        "Salariés": null,
+        "latitude": "47.213722",
+        "longitude": "-1.545321"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER DU QUILLIOU",
+    "Etablissements": [
+      {
+        "Adresse": "6 B PASSAGE PROUTIER 44100 NANTES",
+        "Activité": "02.20Z",
+        "Salariés": null,
+        "latitude": "47.214492",
+        "longitude": "-1.579223"
+      }
+    ]
+  },
+  {
+    "Entreprise": "OFFICE NATIONAL DES FORETS (ONF)",
+    "Etablissements": [
+      {
+        "Adresse": "15 BOULEVARD LEON BUREAU 44200 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": "21",
+        "latitude": "47.205294",
+        "longitude": "-1.562792"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRUNO RUAULT",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE PETITE SENSIVE 1 BOULEVARD ALBERT EINSTEIN 44300 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.259631",
+        "longitude": "-1.558061"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SCI LA PLANCHE AU ROI",
+    "Etablissements": [
+      {
+        "Adresse": "28 BOULEVARD MICHELET 44300 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.233781",
+        "longitude": "-1.556427"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER LA CROIX JUDICAEL",
+    "Etablissements": [
+      {
+        "Adresse": "33 RUE DU COTEAU 44100 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.219309",
+        "longitude": "-1.578892"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER LA VILLEDIEU",
+    "Etablissements": [
+      {
+        "Adresse": "74 BOULEVARD DE LA PRAIRIE AU DUC 44200 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.204191",
+        "longitude": "-1.566273"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER PETITE JARILLES",
+    "Etablissements": [
+      {
+        "Adresse": "65 RUE DU COUDRAY 44000 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": "01",
+        "latitude": "47.229557",
+        "longitude": "-1.544369"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER DES TAILLIS DU GAVRE",
+    "Etablissements": [
+      {
+        "Adresse": "22 B RUE DE LA CONARDIERE 44300 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.274659",
+        "longitude": "-1.517662"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER DE L'ARGOAT",
+    "Etablissements": [
+      {
+        "Adresse": "46 RUE NOIRE 44000 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.225118",
+        "longitude": "-1.563966"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHRISTOPHE TRAVERS",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DU GUESCLIN 44000 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.212895",
+        "longitude": "-1.556078"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER DE BEY",
+    "Etablissements": [
+      {
+        "Adresse": "21 RUE DE LA PELLETERIE 44000 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.22486",
+        "longitude": "-1.569953"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GROUPEMENT FORESTIER DE DAMEREY",
+    "Etablissements": [
+      {
+        "Adresse": "21 RUE DE LA PELLETERIE 44000 NANTES",
+        "Activité": "02.40Z",
+        "Salariés": null,
+        "latitude": "47.22486",
+        "longitude": "-1.569953"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL AMONT",
+    "Etablissements": [
+      {
+        "Adresse": "RATTACHEMENT MAIRIE 3 RUE DE L'HOTEL DE VILLE 44000 NANTES",
+        "Activité": "03.11Z",
+        "Salariés": null,
+        "latitude": "47.217695",
+        "longitude": "-1.555234"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRUNO RICHARD (LE MARITIME)",
+    "Etablissements": [
+      {
+        "Adresse": "27 RUE DE LA PRAIRIE D'AVAL 44200 NANTES",
+        "Activité": "03.11Z",
+        "Salariés": null,
+        "latitude": "47.200103",
+        "longitude": "-1.546855"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL BOZARD",
+    "Etablissements": [
+      {
+        "Adresse": "CHEMIN DES BATELIERS 44300 NANTES",
+        "Activité": "03.12Z",
+        "Salariés": null,
+        "latitude": "47.218922",
+        "longitude": "-1.512341"
+      }
+    ]
+  },
+  {
+    "Entreprise": "YANN BOURVEAU",
+    "Etablissements": [
+      {
+        "Adresse": "29 RUE JEAN BAPTISTE GEORGET 44100 NANTES",
+        "Activité": "03.12Z",
+        "Salariés": null,
+        "latitude": "47.201168",
+        "longitude": "-1.606731"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOCIETE ATLANTIQUE DE MARICULTURE (SATMAR)",
+    "Etablissements": [
+      {
+        "Adresse": "4 B RUE GENERAL LECLERC DE HAUTECLOQUE 44000 NANTES",
+        "Activité": "03.21Z",
+        "Salariés": null,
+        "latitude": "47.218068",
+        "longitude": "-1.552645"
+      }
+    ]
+  },
+  {
+    "Entreprise": "RAOUL CHAULIER",
+    "Etablissements": [
+      {
+        "Adresse": "27 RUE DE LA PRAIRIE D'AVAL 44200 NANTES",
+        "Activité": "03.21Z",
+        "Salariés": null,
+        "latitude": "47.200103",
+        "longitude": "-1.546855"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROGER LE GRAS",
+    "Etablissements": [
+      {
+        "Adresse": "BOULEVARD DE SEATTLE 44300 NANTES",
+        "Activité": "03.21Z",
+        "Salariés": null,
+        "latitude": "47.220237",
+        "longitude": "-1.516973"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ALAIN CHIFFOLEAU",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE LUCIEN AUBERT 44100 NANTES",
+        "Activité": "03.21Z",
+        "Salariés": null,
+        "latitude": "47.207293",
+        "longitude": "-1.606525"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GSM (GSM-GRANULATS)",
+    "Etablissements": [
+      {
+        "Adresse": "RUE DE L'ILE BOTTY 44100 NANTES",
+        "Activité": "08.12Z",
+        "Salariés": "02",
+        "latitude": "47.190968",
+        "longitude": "-1.616288"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOCIETE DES DRAGAGE D'ANCENIS",
+    "Etablissements": [
+      {
+        "Adresse": "CHEMIN DES BATELIERS 44300 NANTES",
+        "Activité": "08.12Z",
+        "Salariés": null,
+        "latitude": "47.218922",
+        "longitude": "-1.512341"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAREMER",
+    "Etablissements": [
+      {
+        "Adresse": "TERMINAL SABLIER RUE L'ILOT DES GREVES CHEVIRE 44000 NANTES",
+        "Activité": "08.12Z",
+        "Salariés": "03",
+        "latitude": "47.237308",
+        "longitude": "-1.538226"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DRAGAGES VINET",
+    "Etablissements": [
+      {
+        "Adresse": "ZONE OUEST DE MALLEVE 4 BOULEVARD JEAN MOULIN 44100 NANTES",
+        "Activité": "08.12Z",
+        "Salariés": null,
+        "latitude": "47.199276",
+        "longitude": "-1.605117"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHRISTOPHE VERHAGUE (ALBATROS CONSULTING)",
+    "Etablissements": [
+      {
+        "Adresse": "2 B RUE DES OLIVETTES 44000 NANTES",
+        "Activité": "08.12Z",
+        "Salariés": null,
+        "latitude": "47.212441",
+        "longitude": "-1.550324"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STE EXPL DES CARRIERES AVEENNES (SECA)",
+    "Etablissements": [
+      {
+        "Adresse": "IMM ECHANGEUR ZAC DE LA CHANTRERIE 2 RUE GASPARD CORIOLIS 44000 NANTES",
+        "Activité": "08.12Z",
+        "Salariés": null,
+        "latitude": "47.276434",
+        "longitude": "-1.514634"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GALAINE GRANIT DIFFUSION (GALAINE GRANIT DIFFUSION) (G.G.D)",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DU GUESCLIN 44000 NANTES",
+        "Activité": "08.99Z",
+        "Salariés": null,
+        "latitude": "47.212895",
+        "longitude": "-1.556078"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MONCEF LADJEROUD (RAYNE)",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DE L'ODET 44200 NANTES",
+        "Activité": "10.11Z",
+        "Salariés": null,
+        "latitude": "47.202555",
+        "longitude": "-1.552862"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PETIT-BREIL",
+    "Etablissements": [
+      {
+        "Adresse": "13 PLACE VIARME 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "01",
+        "latitude": "47.221126",
+        "longitude": "-1.562047"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VIVI MARKET",
+    "Etablissements": [
+      {
+        "Adresse": "31 RUE DE STRASBOURG 44000 NANTES",
+        "Activité": "10.11Z",
+        "Salariés": null,
+        "latitude": "47.219174",
+        "longitude": "-1.554064"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL REGY RH",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DU GUESCLIN 44000 NANTES",
+        "Activité": "10.11Z",
+        "Salariés": null,
+        "latitude": "47.212895",
+        "longitude": "-1.556078"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ALTAKWA",
+    "Etablissements": [
+      {
+        "Adresse": "5 QUAI MALAKOFF 44000 NANTES",
+        "Activité": "10.11Z",
+        "Salariés": "01",
+        "latitude": "47.213253",
+        "longitude": "-1.535204"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FRANCK MARIE",
+    "Etablissements": [
+      {
+        "Adresse": "19 RUE GENERAL DE TORQUAT 44100 NANTES",
+        "Activité": "10.11Z",
+        "Salariés": "01",
+        "latitude": "47.212384",
+        "longitude": "-1.583207"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE MOULIN DU PATIS (FERME DE LA FORET)",
+    "Etablissements": [
+      {
+        "Adresse": "RUE DE TALENSAC 44000 NANTES",
+        "Activité": "47.22Z",
+        "Salariés": null,
+        "latitude": "47.221478",
+        "longitude": "-1.557223"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HERTA",
+    "Etablissements": [
+      {
+        "Adresse": "IMMEUBLE LA DECISION IMPASSE DU PETIT CHATELIER 44300 NANTES",
+        "Activité": "46.38B",
+        "Salariés": null,
+        "latitude": "47.245618",
+        "longitude": "-1.505055"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BAKER PRODUCTION",
+    "Etablissements": [
+      {
+        "Adresse": "12 AVENUE CARNOT 44000 NANTES",
+        "Activité": "10.13A",
+        "Salariés": null,
+        "latitude": "47.213722",
+        "longitude": "-1.545321"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRISON TRAITEUR",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE FRANKLIN 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.214334",
+        "longitude": "-1.56337"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA GRANDE TABLE",
+    "Etablissements": [
+      {
+        "Adresse": "21 RUE DE STRASBOURG 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.217246",
+        "longitude": "-1.552417"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANE LE DOUGET",
+    "Etablissements": [
+      {
+        "Adresse": "7 PLACE VICTOR MANGIN 44200 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "01",
+        "latitude": "47.20121",
+        "longitude": "-1.545523"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRISON COMMERCES (BRISON TRAITEUR)",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE FRANKLIN 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "11",
+        "latitude": "47.214334",
+        "longitude": "-1.56337"
+      },
+      {
+        "Adresse": "MARCHE TALENSAC 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "03",
+        "latitude": "47.221478",
+        "longitude": "-1.557223"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE PRESTIGE DE CASSINI",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE CASSINI 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.214577",
+        "longitude": "-1.565455"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ILORE (ILORE)",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE GUEPIN 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "03",
+        "latitude": "47.216252",
+        "longitude": "-1.558972"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HASINA HASSANBAY (BHARMAL) (AUX SAVEURS DES INDES)",
+    "Etablissements": [
+      {
+        "Adresse": "80 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.220402",
+        "longitude": "-1.548946"
+      }
+    ]
+  },
+  {
+    "Entreprise": "D.TERRIEN",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE COPERNIC 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "01",
+        "latitude": "47.214668",
+        "longitude": "-1.565629"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHARCUTERIE TEIGNE",
+    "Etablissements": [
+      {
+        "Adresse": "24 RUE COPERNIC 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.214633",
+        "longitude": "-1.567121"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PATRON",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE DE LA VILLE EN PIERRE 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "03",
+        "latitude": "47.22566",
+        "longitude": "-1.523732"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOUCHERIE LUSSON",
+    "Etablissements": [
+      {
+        "Adresse": "101 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "03",
+        "latitude": "47.226955",
+        "longitude": "-1.542667"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MOSTEFA BOUGHANEM",
+    "Etablissements": [
+      {
+        "Adresse": "4 ROUTE DE SAINT HERBLAIN 44100 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.210115",
+        "longitude": "-1.596739"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE PORC BONHEUR",
+    "Etablissements": [
+      {
+        "Adresse": "144 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": "03",
+        "latitude": "47.227262",
+        "longitude": "-1.542675"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BELLE ALSACIENNE",
+    "Etablissements": [
+      {
+        "Adresse": "17 T AV DE LA CLOSE 44000 NANTES",
+        "Activité": "10.13B",
+        "Salariés": null,
+        "latitude": "47.241469",
+        "longitude": "-1.575573"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FA2 (FUMAGE ARTISANAL D'ARZON)",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE CASSINI 44000 NANTES",
+        "Activité": "47.23Z",
+        "Salariés": "01",
+        "latitude": "47.214575",
+        "longitude": "-1.565298"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DEVISME MER",
+    "Etablissements": [
+      {
+        "Adresse": "HALL A MAREE DU MIN N°12 58 BOULEVARD GUSTAVE ROCH 44200 NANTES",
+        "Activité": "10.20Z",
+        "Salariés": null,
+        "latitude": "47.203981",
+        "longitude": "-1.551071"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GUYADER L'ESPRIT DE LA MER",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE VICTOR SCHOELCHER 44100 NANTES",
+        "Activité": "10.20Z",
+        "Salariés": "12",
+        "latitude": "47.188421",
+        "longitude": "-1.604795"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CAMILLE DAMERVAL",
+    "Etablissements": [
+      {
+        "Adresse": "13 ALLEE DE L'ILE GLORIETTE 44000 NANTES",
+        "Activité": "96.09Z",
+        "Salariés": null,
+        "latitude": "47.210506",
+        "longitude": "-1.559136"
+      }
+    ]
+  },
+  {
+    "Entreprise": "INGREDIENTS D'AFRIQUE (INGREDIENT D'AFRIQUE)",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE DE SAINT DOMINGUE 44200 NANTES",
+        "Activité": "10.32Z",
+        "Salariés": null,
+        "latitude": "47.201392",
+        "longitude": "-1.571388"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARTHE-SALOME MATWAKINGA KOMBO BATUKEBA (TOUANGA) (JOIES DES PAPILLES BY SOZO LABIO)",
+    "Etablissements": [
+      {
+        "Adresse": "15 RUE GUSTAVE EIFFEL 44300 NANTES",
+        "Activité": "10.32Z",
+        "Salariés": null,
+        "latitude": "47.257042",
+        "longitude": "-1.519162"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EMMA BORNES (EMMA BORNES)",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE L'ECHAPPEE BELLE 5 A RUE DE L'ECHAPPEE 44200 NANTES",
+        "Activité": "10.39A",
+        "Salariés": null,
+        "latitude": "47.203405",
+        "longitude": "-1.548111"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA COUR D'ORGERES (FERME DE LA COUR D'ORGERES)",
+    "Etablissements": [
+      {
+        "Adresse": "3 RUE COPERNIC 44000 NANTES",
+        "Activité": "56.10C",
+        "Salariés": null,
+        "latitude": "47.214806",
+        "longitude": "-1.564459"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DU LIEN DANS L'BOCAL",
+    "Etablissements": [
+      {
+        "Adresse": "21 RUE DU TRANSVAAL 44300 NANTES",
+        "Activité": "10.39B",
+        "Salariés": null,
+        "latitude": "47.241755",
+        "longitude": "-1.558256"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MADINA MADAYEVA (NAONED)",
+    "Etablissements": [
+      {
+        "Adresse": "APPARTEMENT 61 RUE DE TCHECOSLOVAQUIE 44000 NANTES",
+        "Activité": "10.39B",
+        "Salariés": null,
+        "latitude": "47.214811",
+        "longitude": "-1.531532"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VOLCLAIR CONFITURES",
+    "Etablissements": [
+      {
+        "Adresse": "8 BD DES AMERICAINS 44000 NANTES",
+        "Activité": "15.3F",
+        "Salariés": null,
+        "latitude": "47.235647",
+        "longitude": "-1.569138"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CARGILL FRANCE",
+    "Etablissements": [
+      {
+        "Adresse": "6 RUE NATHALIE SARRAUTE 44200 NANTES",
+        "Activité": "46.21Z",
+        "Salariés": "21",
+        "latitude": "47.208947",
+        "longitude": "-1.540638"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ETABLISSEMENTS BEILLEVAIRE",
+    "Etablissements": [
+      {
+        "Adresse": "MARCHE TALENSAC 44000 NANTES",
+        "Activité": "52.6D",
+        "Salariés": null,
+        "latitude": "47.221478",
+        "longitude": "-1.557223"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SWANN ROBIN (SWANN ROBIN)",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE CHARLES BRUNELLIERE 44100 NANTES",
+        "Activité": "10.51A",
+        "Salariés": null,
+        "latitude": "47.209282",
+        "longitude": "-1.569546"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EURIAL (EURIAL - POITOURAINE)",
+    "Etablissements": [
+      {
+        "Adresse": "75 RUE SOPHIE GERMAIN 44300 NANTES",
+        "Activité": "10.51C",
+        "Salariés": "22",
+        "latitude": "47.285942",
+        "longitude": "-1.520203"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EURIAL FOOD SERVICE & INDUSTRY",
+    "Etablissements": [
+      {
+        "Adresse": "75 RUE SOPHIE GERMAIN 44300 NANTES",
+        "Activité": "46.11Z",
+        "Salariés": "12",
+        "latitude": "47.285942",
+        "longitude": "-1.520203"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LECOQ",
+    "Etablissements": [
+      {
+        "Adresse": "3 B RUE COPERNIC 44000 NANTES",
+        "Activité": "10.51C",
+        "Salariés": null,
+        "latitude": "47.214767",
+        "longitude": "-1.564735"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAITERIE NANTAISE (LAITERIE NANTAISE)",
+    "Etablissements": [
+      {
+        "Adresse": "5 ALLEE ASSIA DJEBAR 44200 NANTES",
+        "Activité": "10.51C",
+        "Salariés": "01",
+        "latitude": "47.207019",
+        "longitude": "-1.564335"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA FRAISERAIE SAS (LA FRAISERAIE)",
+    "Etablissements": [
+      {
+        "Adresse": "1 PLACE DE LA BOURSE 44000 NANTES",
+        "Activité": "47.11A",
+        "Salariés": "01",
+        "latitude": "47.212964",
+        "longitude": "-1.558939"
+      },
+      {
+        "Adresse": "13 RUE DE LA MARNE 44000 NANTES",
+        "Activité": "47.11A",
+        "Salariés": "01",
+        "latitude": "47.21577",
+        "longitude": "-1.553909"
+      },
+      {
+        "Adresse": "SITE MACHINES DE L'ILE QUAI FERNAND CROUAN 44000 NANTES",
+        "Activité": "56.10C",
+        "Salariés": "01",
+        "latitude": "47.2077528",
+        "longitude": "-1.5656973"
+      },
+      {
+        "Adresse": "4 PLACE MARC ELDER 44000 NANTES",
+        "Activité": "56.10C",
+        "Salariés": "02",
+        "latitude": "47.216379",
+        "longitude": "-1.550475"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FASHION GLACES",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE DU CHATEAU 44000 NANTES",
+        "Activité": "10.52Z",
+        "Salariés": null,
+        "latitude": "47.216291",
+        "longitude": "-1.552009"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOULANGERIES PAUL",
+    "Etablissements": [
+      {
+        "Adresse": "CENTRE COMMERCIAL PARIDIS 10 ROUTE DE PARIS 44300 NANTES",
+        "Activité": "68.20B",
+        "Salariés": null,
+        "latitude": "47.251168",
+        "longitude": "-1.517998"
+      },
+      {
+        "Adresse": "1 PLACE DU PILORI 44000 NANTES",
+        "Activité": "56.10C",
+        "Salariés": null,
+        "latitude": "47.216284",
+        "longitude": "-1.552802"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PANIFICATION DE RETZ",
+    "Etablissements": [
+      {
+        "Adresse": "NOUVELLES GALERIES 1 RUE DE LA MARNE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.215949",
+        "longitude": "-1.553416"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARIA SAUNIER",
+    "Etablissements": [
+      {
+        "Adresse": "4EME ETAGE 4 RUE JEANNE D'ARC 44000 NANTES",
+        "Activité": "10.71A",
+        "Salariés": null,
+        "latitude": "47.220673",
+        "longitude": "-1.557477"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUGUSTIN NANTES LA BEAUJOIRE",
+    "Etablissements": [
+      {
+        "Adresse": "CTRECOMMERCIAL CARREFOUR BOULEVARD DE LA BEAUJOIRE 44300 NANTES",
+        "Activité": "47.24Z",
+        "Salariés": "01",
+        "latitude": "47.25842",
+        "longitude": "-1.516474"
+      },
+      {
+        "Adresse": "CARREFOUR BOULEVARD DE LA BEAUJOIRE 44300 NANTES",
+        "Activité": "47.24Z",
+        "Salariés": null,
+        "latitude": "47.25842",
+        "longitude": "-1.516474"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHRISTIAN PIRAUD (CREP'GALETTES)",
+    "Etablissements": [
+      {
+        "Adresse": "65 BOULEVARD LELASSEUR 44000 NANTES",
+        "Activité": "10.71B",
+        "Salariés": null,
+        "latitude": "47.229637",
+        "longitude": "-1.571934"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VITACTIV (HOME PIZZA)",
+    "Etablissements": [
+      {
+        "Adresse": "121 BOULEVARD ERNEST DALBY 44000 NANTES",
+        "Activité": "10.71B",
+        "Salariés": "01",
+        "latitude": "47.220207",
+        "longitude": "-1.531703"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CROISSANTERINE NANTAISE",
+    "Etablissements": [
+      {
+        "Adresse": "10 ALLEE BRANCAS 44000 NANTES",
+        "Activité": "10.71B",
+        "Salariés": "03",
+        "latitude": "47.213497",
+        "longitude": "-1.557243"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN THAPON",
+    "Etablissements": [
+      {
+        "Adresse": "44 B AVENUE MAURICE CLETRAS 44300 NANTES",
+        "Activité": "10.71B",
+        "Salariés": null,
+        "latitude": "47.251989",
+        "longitude": "-1.509777"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL SNAR (HELP PIZZA)",
+    "Etablissements": [
+      {
+        "Adresse": "98 ROUTE DE VANNES 44100 NANTES",
+        "Activité": "10.71B",
+        "Salariés": null,
+        "latitude": "47.236028",
+        "longitude": "-1.583871"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA MIE CASSARD",
+    "Etablissements": [
+      {
+        "Adresse": "1 ALLEE CASSARD 44000 NANTES",
+        "Activité": "10.71B",
+        "Salariés": "12",
+        "latitude": "47.214141",
+        "longitude": "-1.555748"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANE LHOMMELET (LE PIZZAIOLLO)",
+    "Etablissements": [
+      {
+        "Adresse": "MARCHE RUE DE TALENSAC 44000 NANTES",
+        "Activité": "10.71B",
+        "Salariés": null,
+        "latitude": "47.221478",
+        "longitude": "-1.557223"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BONJOUR",
+    "Etablissements": [
+      {
+        "Adresse": "144 BOULEVARD ERNEST DALBY 44000 NANTES",
+        "Activité": "10.71B",
+        "Salariés": "01",
+        "latitude": "47.219888",
+        "longitude": "-1.532672"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BARNABE (BARNABE)",
+    "Etablissements": [
+      {
+        "Adresse": "10 BOULEVARD BABIN CHEVAYE 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.205959",
+        "longitude": "-1.549122"
+      },
+      {
+        "Adresse": "148 BOULEVARD DE LA LIBERTE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.206528",
+        "longitude": "-1.587617"
+      },
+      {
+        "Adresse": "122 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.228233",
+        "longitude": "-1.541632"
+      },
+      {
+        "Adresse": "20 RUE GRANDE BIESSE 44200 NANTES",
+        "Activité": "56.10C",
+        "Salariés": null,
+        "latitude": "47.206158",
+        "longitude": "-1.549033"
+      }
+    ]
+  },
+  {
+    "Entreprise": "KLB BOULANGERIE-PATISSERIE",
+    "Etablissements": [
+      {
+        "Adresse": "20 RUE DE LA BASTILLE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.218573",
+        "longitude": "-1.56526"
+      },
+      {
+        "Adresse": "122 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.228233",
+        "longitude": "-1.541632"
+      },
+      {
+        "Adresse": "1 RUE DE LA MARNE 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.215949",
+        "longitude": "-1.553416"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUX MERVEILLEUX BRETAGNE",
+    "Etablissements": [
+      {
+        "Adresse": "6 RUE FRANKLIN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.214026",
+        "longitude": "-1.563118"
+      },
+      {
+        "Adresse": "21 RUE BEAUSOLEIL 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.228115",
+        "longitude": "-1.558207"
+      }
+    ]
+  },
+  {
+    "Entreprise": "REGIS CORBINEAU",
+    "Etablissements": [
+      {
+        "Adresse": "106 BOULEVARD DE LA LIBERTE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.204489",
+        "longitude": "-1.588125"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AVKM",
+    "Etablissements": [
+      {
+        "Adresse": "1 BOULEVARD DE LAUNAY 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.209703",
+        "longitude": "-1.570998"
+      },
+      {
+        "Adresse": "1 RUE DE LA CONVENTION 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.211064",
+        "longitude": "-1.586876"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL DESLANDES",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE DE LA VILLE EN PIERRE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.225603",
+        "longitude": "-1.523888"
+      },
+      {
+        "Adresse": "27 ROUTE DE SAINTE LUCE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.230404",
+        "longitude": "-1.523908"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE P'TIT MOULIN ROUGE",
+    "Etablissements": [
+      {
+        "Adresse": "12 ALLEE DE LA MAISON ROUGE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.212512",
+        "longitude": "-1.552244"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EMMA PROCE",
+    "Etablissements": [
+      {
+        "Adresse": "3 BOULEVARD GASTON SERPETTE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.224513",
+        "longitude": "-1.576785"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JAMET",
+    "Etablissements": [
+      {
+        "Adresse": "80 RUE DE LA BOURGEONNIERE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.253286",
+        "longitude": "-1.558781"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BACKT",
+    "Etablissements": [
+      {
+        "Adresse": "7 B RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.233091",
+        "longitude": "-1.536444"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EMMA SCRIBE",
+    "Etablissements": [
+      {
+        "Adresse": "12 RUE SCRIBE ET 2 PASSAGE DES ECOLES 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.214243",
+        "longitude": "-1.561699"
+      }
+    ]
+  },
+  {
+    "Entreprise": "A.P.P.N (AU P'TIT PAIN NANTAIS)",
+    "Etablissements": [
+      {
+        "Adresse": "26 RUE JEAN JAURES 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.218314",
+        "longitude": "-1.561821"
+      },
+      {
+        "Adresse": "3 RUE DU PONT SAUVETOUT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.217152",
+        "longitude": "-1.558578"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DPDG FRANKLIN",
+    "Etablissements": [
+      {
+        "Adresse": "14 RUE FRANKLIN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.214436",
+        "longitude": "-1.563274"
+      }
+    ]
+  },
+  {
+    "Entreprise": "G.A. TOSCANE",
+    "Etablissements": [
+      {
+        "Adresse": "40 RUE DE GIGANT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.214599",
+        "longitude": "-1.572987"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON ARLOT CHENG (MAISON ARLOT CHENG)",
+    "Etablissements": [
+      {
+        "Adresse": "36-36 36 T RUE LA NOUE BRAS DE FER 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.206844",
+        "longitude": "-1.56338"
+      },
+      {
+        "Adresse": "MARCHE DE TALENSAC RUE DE TALENSAC 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.221478",
+        "longitude": "-1.557223"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DPDG CASSINI",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE CASSINI 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.214575",
+        "longitude": "-1.565298"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EMMA TALENSAC",
+    "Etablissements": [
+      {
+        "Adresse": "14 T RUE TALENSAC 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.221661",
+        "longitude": "-1.557937"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NUR (RUN)",
+    "Etablissements": [
+      {
+        "Adresse": "66 RUE SAINT JACQUES 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.196528",
+        "longitude": "-1.539185"
+      },
+      {
+        "Adresse": "4 ALLEE DUQUESNE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.217194",
+        "longitude": "-1.556687"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AGRI AGRO DEVELOPPEMENT (BOULANGERIE JEAN)",
+    "Etablissements": [
+      {
+        "Adresse": "66 BOULEVARD VICTOR HUGO 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.201202",
+        "longitude": "-1.546564"
+      },
+      {
+        "Adresse": "18 RUE PAUL PAINLEVE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.225994",
+        "longitude": "-1.57054"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ANGELIQUE JALLIER",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DU COUDRAY 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.234443",
+        "longitude": "-1.541399"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ALAIN BEGO",
+    "Etablissements": [
+      {
+        "Adresse": "GERANT EURL M B A MALAKOFF BOULEVARD DE SARREBRUCK 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.215018",
+        "longitude": "-1.523975"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA PETITE BOULANGERIE",
+    "Etablissements": [
+      {
+        "Adresse": "1 PLACE SAINT FELIX 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.230929",
+        "longitude": "-1.555747"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL THOMARIE (LE FOURNIL DE L'ERDRE)",
+    "Etablissements": [
+      {
+        "Adresse": "28-30 28 RUE PITRE CHEVALIER 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.223526",
+        "longitude": "-1.551329"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE TEMPLE DU CHOCOLAT",
+    "Etablissements": [
+      {
+        "Adresse": "ET N°005 3 RUE DE LA PAIX 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "02",
+        "latitude": "47.214498",
+        "longitude": "-1.554338"
+      },
+      {
+        "Adresse": "3 RUE COPERNIC 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "02",
+        "latitude": "47.214806",
+        "longitude": "-1.564459"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DEBOTTE PERE ET FILS",
+    "Etablissements": [
+      {
+        "Adresse": "15 T BOULEVARD BABIN CHEVAYE 44200 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "12",
+        "latitude": "47.205443",
+        "longitude": "-1.552369"
+      },
+      {
+        "Adresse": "2 RUE DES HAUTS PAVES 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "03",
+        "latitude": "47.221957",
+        "longitude": "-1.562585"
+      },
+      {
+        "Adresse": "3 RUE DE BUDAPEST 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "03",
+        "latitude": "47.216216",
+        "longitude": "-1.560446"
+      },
+      {
+        "Adresse": "15 RUE CREBILLON 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "03",
+        "latitude": "47.213689",
+        "longitude": "-1.560549"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANE PASCO PATISSIER CHOCOLATIER (STEPHANE PASCO PATISSIER CHOCOLATIER)",
+    "Etablissements": [
+      {
+        "Adresse": "16 B RUE DE MAYENCE 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "01",
+        "latitude": "47.21139",
+        "longitude": "-1.545381"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JULIE ROBICHON (MOTTRON) (JULIE MOTTRON)",
+    "Etablissements": [
+      {
+        "Adresse": "23 BOULEVARD GABRIEL GUIST'HAU 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.216725",
+        "longitude": "-1.567191"
+      },
+      {
+        "Adresse": "28 RUE LOUIS DAVID 44100 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.225788",
+        "longitude": "-1.584932"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CAPKAO (CAPKAO)",
+    "Etablissements": [
+      {
+        "Adresse": "3 RUE SUFFREN 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "11",
+        "latitude": "47.213029",
+        "longitude": "-1.56102"
+      },
+      {
+        "Adresse": "6 RUE COPERNIC 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.215003",
+        "longitude": "-1.56467"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PATISSERIE VISONNEAU (PATISSERIE VISONNEAU)",
+    "Etablissements": [
+      {
+        "Adresse": "19 RUE MERCOEUR 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "03",
+        "latitude": "47.217652",
+        "longitude": "-1.562107"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SUGAR SUGAR (SUGAR SUGAR)",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE GUEPIN 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.216244",
+        "longitude": "-1.558831"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FEELING GOOD BAKERY (FEELING GOOD BAKERY)",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DE LA MARNE 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.215949",
+        "longitude": "-1.553416"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ESTHETE (ESTHETE, NATURELLEMENT PATISSIER)",
+    "Etablissements": [
+      {
+        "Adresse": "1 B RUE MERCOEUR 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "11",
+        "latitude": "47.21715",
+        "longitude": "-1.559872"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BARBARA PISSERE (LA BARBAGATO)",
+    "Etablissements": [
+      {
+        "Adresse": "63 BOULEVARD SAINT AIGNAN 44100 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.207485",
+        "longitude": "-1.578642"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAKEDA",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE COPERNIC 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.214949",
+        "longitude": "-1.564469"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CELINE MOREAU (MERLET)",
+    "Etablissements": [
+      {
+        "Adresse": "1 BOULEVARD ROBERT SCHUMAN 44300 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.233422",
+        "longitude": "-1.566132"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LEONIE BOUM",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE DU CHER 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.214149",
+        "longitude": "-1.5345"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NAHIDA LABRAOUI (DERRADJI) (HIDA CAKE)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE LEBRUN 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.220147",
+        "longitude": "-1.549451"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DELICE VEGETAL",
+    "Etablissements": [
+      {
+        "Adresse": "65 QUAI DE LA FOSSE 44300 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.209634",
+        "longitude": "-1.565626"
+      }
+    ]
+  },
+  {
+    "Entreprise": "M.V.S (FIKA)",
+    "Etablissements": [
+      {
+        "Adresse": "28 PLACE VIARME 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.220661",
+        "longitude": "-1.563057"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES DELICES DE TUNIS (BOULANGERIE 44)",
+    "Etablissements": [
+      {
+        "Adresse": "11 ALLEE COMMANDANT CHARCOT 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "NN",
+        "latitude": "47.217485",
+        "longitude": "-1.544753"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAKI CREATION",
+    "Etablissements": [
+      {
+        "Adresse": "23 RUE DE VERDUN 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "02",
+        "latitude": "47.217289",
+        "longitude": "-1.552079"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHERELLES (COULEUR CHOCOLAT)",
+    "Etablissements": [
+      {
+        "Adresse": "128 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "02",
+        "latitude": "47.228004",
+        "longitude": "-1.541863"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JULIE DEVYS (HENNEBERT)",
+    "Etablissements": [
+      {
+        "Adresse": "86 RUE DES AGENETS 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.231034",
+        "longitude": "-1.533526"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOPHIE MALTERRE (NUNES) (PASSION VANILLE)",
+    "Etablissements": [
+      {
+        "Adresse": "17 BOULEVARD DES BATIGNOLLES 44300 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.253848",
+        "longitude": "-1.525306"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DELICATESSAINE",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE SOURDEAC 44200 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "02",
+        "latitude": "47.20712",
+        "longitude": "-1.563912"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON BRIEUC",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE DES CARMES 44000 NANTES",
+        "Activité": "47.11C",
+        "Salariés": "01",
+        "latitude": "47.216071",
+        "longitude": "-1.5551"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE FONDANT BAULOIS",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE RACINE- 1 RUE FRANKLIN 44000 NANTES",
+        "Activité": "56.10C",
+        "Salariés": null,
+        "latitude": "47.213678",
+        "longitude": "-1.563117"
+      }
+    ]
+  },
+  {
+    "Entreprise": "INORESTO (HOTEL DES GROTTES RESTAURANT)",
+    "Etablissements": [
+      {
+        "Adresse": "9 AVENUE EMILE BOISSIER 44000 NANTES",
+        "Activité": "70.21Z",
+        "Salariés": null,
+        "latitude": "47.215592",
+        "longitude": "-1.572873"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GWENHAELLE DE DIEULEVEULT (DE CASTELLAN) (LES MINIS DE GWENN)",
+    "Etablissements": [
+      {
+        "Adresse": "60 RUE DES COLLINES 44300 NANTES",
+        "Activité": "10.72Z",
+        "Salariés": null,
+        "latitude": "47.244621",
+        "longitude": "-1.516014"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ELEONORE LALOS (TOUT UN BISCUIT)",
+    "Etablissements": [
+      {
+        "Adresse": "29 AVENUE DU PARC DE PROCE 44100 NANTES",
+        "Activité": "10.72Z",
+        "Salariés": null,
+        "latitude": "47.219462",
+        "longitude": "-1.581994"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CAMILLE DESSORIS (LES MADELEINES DE CAMILLE)",
+    "Etablissements": [
+      {
+        "Adresse": "20 BOULEVARD JULES VERNE 44300 NANTES",
+        "Activité": "10.72Z",
+        "Salariés": null,
+        "latitude": "47.235061",
+        "longitude": "-1.534721"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAMIRA AIT SADI (DELICES DE KABYLIE)",
+    "Etablissements": [
+      {
+        "Adresse": "6 RUE GRESSET 44000 NANTES",
+        "Activité": "10.72Z",
+        "Salariés": null,
+        "latitude": "47.212169",
+        "longitude": "-1.564111"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DOUJA TALEB (SENOUCI) (BAYA SAVEURS NOMADES)",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE QUAI DES MARINIERS 5 AVENUE YVETTE CHASSAGNE 44300 NANTES",
+        "Activité": "10.72Z",
+        "Salariés": null,
+        "latitude": "47.23796",
+        "longitude": "-1.568452"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HAUT LES PATES (HAUT LES PATES)",
+    "Etablissements": [
+      {
+        "Adresse": "5 AVENUE BONNET 44100 NANTES",
+        "Activité": "10.73Z",
+        "Salariés": null,
+        "latitude": "47.21874",
+        "longitude": "-1.586087"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TEREOS FRANCE",
+    "Etablissements": [
+      {
+        "Adresse": "45 BOULEVARD BENONI GOULLIN 44200 NANTES",
+        "Activité": "10.81Z",
+        "Salariés": "21",
+        "latitude": "47.201467",
+        "longitude": "-1.554331"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAS ANDRIEU (L'ATELIER DU CHOCOLAT DE BAYONNE)",
+    "Etablissements": [
+      {
+        "Adresse": "18 RUE DES HALLES 44000 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": "02",
+        "latitude": "47.215814",
+        "longitude": "-1.555762"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHOCOLATERIE BISCUITERIE LARNICOL MOF (MAISON GEORGES LARNICOL)",
+    "Etablissements": [
+      {
+        "Adresse": "20-22 20 RUE DE LA FOSSE 44000 NANTES",
+        "Activité": "47.24Z",
+        "Salariés": "03",
+        "latitude": "47.213327",
+        "longitude": "-1.559009"
+      },
+      {
+        "Adresse": "5 RUE BOILEAU 44000 NANTES",
+        "Activité": "47.24Z",
+        "Salariés": null,
+        "latitude": "47.214606",
+        "longitude": "-1.560663"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CASTELANNE",
+    "Etablissements": [
+      {
+        "Adresse": "8 QUAI ANDRE RHUYS 44300 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": "02",
+        "latitude": "47.207188",
+        "longitude": "-1.554329"
+      },
+      {
+        "Adresse": "12 PLACE DE LA BOURSE 44000 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": "01",
+        "latitude": "47.212242",
+        "longitude": "-1.55945"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHOC-HOLA",
+    "Etablissements": [
+      {
+        "Adresse": "11 RUE SAINT LEONARD 44000 NANTES",
+        "Activité": "47.24Z",
+        "Salariés": "02",
+        "latitude": "47.21696",
+        "longitude": "-1.555534"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRUNO GUILLARD CHOCOLATIER (BRUNO CACAO)",
+    "Etablissements": [
+      {
+        "Adresse": "114 RUE DES HAUTS PAVES 44000 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": "01",
+        "latitude": "47.228338",
+        "longitude": "-1.570943"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FREDERIC LABERCO (NOUGATS AMANDINE)",
+    "Etablissements": [
+      {
+        "Adresse": "LOCAL 1 BIS 2 RUE ROBERT LE RICOLAIS 44300 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": null,
+        "latitude": "47.24693",
+        "longitude": "-1.505391"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CLEMENT LEROY",
+    "Etablissements": [
+      {
+        "Adresse": "APPARTEMENT 001 REZ DE CHAUSSEE 1 RUE DE LA VILLE AUX ROSES 44000 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": null,
+        "latitude": "47.231248",
+        "longitude": "-1.56252"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ACAOYER (ACAOYER)",
+    "Etablissements": [
+      {
+        "Adresse": "77 BOULEVARD DE LONGCHAMP 44300 NANTES",
+        "Activité": "10.82Z",
+        "Salariés": null,
+        "latitude": "47.236711",
+        "longitude": "-1.576953"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NESTLE FRANCE (NESTLE FRANCE FORCE DE VENTE) (MNF)",
+    "Etablissements": [
+      {
+        "Adresse": "MULTI BURO 12 AVENUE CARNOT 44000 NANTES",
+        "Activité": "82.99Z",
+        "Salariés": "21",
+        "latitude": "47.213722",
+        "longitude": "-1.545321"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TOSMA",
+    "Etablissements": [
+      {
+        "Adresse": "1 AVENUE DE LA DEVINIERE 44000 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.220869",
+        "longitude": "-1.538253"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CIME",
+    "Etablissements": [
+      {
+        "Adresse": "20 RUE DES HAUTS PAVES 44000 NANTES",
+        "Activité": "10.83Z",
+        "Salariés": null,
+        "latitude": "47.223064",
+        "longitude": "-1.563413"
+      },
+      {
+        "Adresse": "4 RUE SANTEUIL 44000 NANTES",
+        "Activité": "56.30Z",
+        "Salariés": null,
+        "latitude": "47.212825",
+        "longitude": "-1.560243"
+      }
+    ]
+  },
+  {
+    "Entreprise": "L'ATELIER JUDICIEUX (JUDICIEUX)",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE DE BUDAPEST 44000 NANTES",
+        "Activité": "10.83Z",
+        "Salariés": null,
+        "latitude": "47.216579",
+        "longitude": "-1.559904"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PLUME CAFE (PLUME CAFE)",
+    "Etablissements": [
+      {
+        "Adresse": "43 RUE DES CLEMATITES 44300 NANTES",
+        "Activité": "10.83Z",
+        "Salariés": null,
+        "latitude": "47.234455",
+        "longitude": "-1.523753"
+      }
+    ]
+  },
+  {
+    "Entreprise": "KULTIVAR (KULTIVAR)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE SYLVAIN PARIS 44000 NANTES",
+        "Activité": "10.83Z",
+        "Salariés": "01",
+        "latitude": "47.230783",
+        "longitude": "-1.55598"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TORREFACTION SABARD",
+    "Etablissements": [
+      {
+        "Adresse": "24 RUE DE LA MARNE 44000 NANTES",
+        "Activité": "10.83Z",
+        "Salariés": null,
+        "latitude": "47.215655",
+        "longitude": "-1.554514"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CAFE MACHIN",
+    "Etablissements": [
+      {
+        "Adresse": "211 ROUTE DE SAINTE LUCE 44300 NANTES",
+        "Activité": "10.83Z",
+        "Salariés": null,
+        "latitude": "47.239382",
+        "longitude": "-1.513725"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CAROFF FRERES (C.F.C.)",
+    "Etablissements": [
+      {
+        "Adresse": "20 BOULEVARD DE CARDIFF 44100 NANTES",
+        "Activité": "10.84Z",
+        "Salariés": null,
+        "latitude": "47.198632",
+        "longitude": "-1.585895"
+      },
+      {
+        "Adresse": "CHANTENAY 12 BOULEVARD MARECHAL ALPHONSE JUIN 44100 NANTES",
+        "Activité": "52.10B",
+        "Salariés": "11",
+        "latitude": "47.197997",
+        "longitude": "-1.594944"
+      },
+      {
+        "Adresse": "10 BOULEVARD MARECHAL ALPHONSE JUIN 44100 NANTES",
+        "Activité": "52.10B",
+        "Salariés": null,
+        "latitude": "47.197969",
+        "longitude": "-1.594716"
+      },
+      {
+        "Adresse": "44 RUE DES CHANTIERS CRUCY 44100 NANTES",
+        "Activité": "10.84Z",
+        "Salariés": null,
+        "latitude": "47.19838",
+        "longitude": "-1.58369"
+      }
+    ]
+  },
+  {
+    "Entreprise": "INES MOUSSAVOU MIHINDOU (INOUCOOK)",
+    "Etablissements": [
+      {
+        "Adresse": "43 RUE MAISDON PAJOT 44100 NANTES",
+        "Activité": "10.84Z",
+        "Salariés": null,
+        "latitude": "47.217409",
+        "longitude": "-1.584165"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HANS GANCILLE (LA SAUCE PIQU'HANS)",
+    "Etablissements": [
+      {
+        "Adresse": "10 B ALLEE DE L'ILE GLORIETTE 44000 NANTES",
+        "Activité": "10.84Z",
+        "Salariés": null,
+        "latitude": "47.210696",
+        "longitude": "-1.558655"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAB'OH !",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE ROBERT LE RICOLAIS 44300 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.24693",
+        "longitude": "-1.505391"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES FILS DU BOUCHER",
+    "Etablissements": [
+      {
+        "Adresse": "31 RUE BOUGAINVILLE 44100 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": "02",
+        "latitude": "47.198518",
+        "longitude": "-1.58442"
+      }
+    ]
+  },
+  {
+    "Entreprise": "KYLIAN DELEPINE",
+    "Etablissements": [
+      {
+        "Adresse": "3 ALLEE JEAN BART 44000 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.214638",
+        "longitude": "-1.555508"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TERRAVEGA",
+    "Etablissements": [
+      {
+        "Adresse": "22 RUE BARON 44000 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.210972",
+        "longitude": "-1.549256"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CARMELITA LUIZA DA SILVA PAVAGEAU (LUIZA DA SILVA) (PITOMBA DA SILVA)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DE LA SAVE 44100 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.205535",
+        "longitude": "-1.604552"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FELIX AIME",
+    "Etablissements": [
+      {
+        "Adresse": "87 QUAI DE LA FOSSE 44300 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.208431",
+        "longitude": "-1.569541"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHRISTINE FOURMONT (VAUNAC) (PAPILLES ET PETITS PLATS)",
+    "Etablissements": [
+      {
+        "Adresse": "IMPASSE DES ENFANTS NANTAIS 56 RUE DE LA CONVENTION 44100 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.210752",
+        "longitude": "-1.591342"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TI KOUIGN",
+    "Etablissements": [
+      {
+        "Adresse": "BUREAU 3 2 PLACE JEAN V 44000 NANTES",
+        "Activité": "10.85Z",
+        "Salariés": null,
+        "latitude": "47.212243012584786",
+        "longitude": "-1.565357053534988"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FOODINNOV",
+    "Etablissements": [
+      {
+        "Adresse": "TECHNOCAMPUS ALIMENTATION 2 IMPASSE THERESE BERTRAND-FONTAINE 44300 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.263695",
+        "longitude": "-1.56578"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOTALI",
+    "Etablissements": [
+      {
+        "Adresse": "30 RUE DE SAVENAY 44000 NANTES",
+        "Activité": "10.86Z",
+        "Salariés": null,
+        "latitude": "47.222512",
+        "longitude": "-1.561916"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MOMAN SAS",
+    "Etablissements": [
+      {
+        "Adresse": "39 RUE DU COTEAU 44100 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.219637",
+        "longitude": "-1.578689"
+      },
+      {
+        "Adresse": "ONIRIS SITE DE LA GERAUDIERE LA GERAUDIERE 44000 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.263242",
+        "longitude": "-1.56562"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ATLANTALGAE R&D (ATLANTALGAE R&D)",
+    "Etablissements": [
+      {
+        "Adresse": "50 RUE FONTAINE DE BARBIN 44000 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.230551",
+        "longitude": "-1.551694"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EVLB",
+    "Etablissements": [
+      {
+        "Adresse": "12 AVENUE CARNOT 44000 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": "01",
+        "latitude": "47.213722",
+        "longitude": "-1.545321"
+      }
+    ]
+  },
+  {
+    "Entreprise": "KORIYA KOUROUMA (KORY)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DE MADRID 44000 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.214102",
+        "longitude": "-1.532598"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MIREILLE LEPAROUX (ATELIER HONMA)",
+    "Etablissements": [
+      {
+        "Adresse": "82 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.220342",
+        "longitude": "-1.549009"
+      }
+    ]
+  },
+  {
+    "Entreprise": "VIBA",
+    "Etablissements": [
+      {
+        "Adresse": "9 AVENUE ARTEMIS 44200 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.200823",
+        "longitude": "-1.528427"
+      }
+    ]
+  },
+  {
+    "Entreprise": "EDAJ KEGIN",
+    "Etablissements": [
+      {
+        "Adresse": "14 BOULEVARD EMILE ROMANET 44100 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.209969",
+        "longitude": "-1.600826"
+      }
+    ]
+  },
+  {
+    "Entreprise": "THE NUT PROJECT (NUMYLK) (TNP)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE ROBERT LE RICOLAIS 44300 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": null,
+        "latitude": "47.24693",
+        "longitude": "-1.505391"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NET +",
+    "Etablissements": [
+      {
+        "Adresse": "1 AVENUE DES JADES 44300 NANTES",
+        "Activité": "10.89Z",
+        "Salariés": "12",
+        "latitude": "47.261204",
+        "longitude": "-1.495532"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FRANCE MELASSES",
+    "Etablissements": [
+      {
+        "Adresse": "37 RUE DES USINES 44100 NANTES",
+        "Activité": "46.11Z",
+        "Salariés": null,
+        "latitude": "47.194606",
+        "longitude": "-1.609459"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DISTILOIRE",
+    "Etablissements": [
+      {
+        "Adresse": "7 A RUE DU PORT GARNIER 44000 NANTES",
+        "Activité": "11.01Z",
+        "Salariés": "01",
+        "latitude": "47.229349",
+        "longitude": "-1.548999"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FAMIGLIA CARUSO CUCINA",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE SAINT LEONARD 44000 NANTES",
+        "Activité": "11.01Z",
+        "Salariés": null,
+        "latitude": "47.21693",
+        "longitude": "-1.555416"
+      },
+      {
+        "Adresse": "4 ALLEE DES VINAIGRIERS 44300 NANTES",
+        "Activité": "11.01Z",
+        "Salariés": null,
+        "latitude": "47.219777",
+        "longitude": "-1.512779"
+      }
+    ]
+  },
+  {
+    "Entreprise": "UN VOYAGE DANS LES VIGNES",
+    "Etablissements": [
+      {
+        "Adresse": "14 RUE HAUTE ROCHE 44000 NANTES",
+        "Activité": "70.10Z",
+        "Salariés": null,
+        "latitude": "47.225007",
+        "longitude": "-1.560736"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ATELIER ROME",
+    "Etablissements": [
+      {
+        "Adresse": "45 B RUE JEAN LOUIS DE GIRODET 44100 NANTES",
+        "Activité": "11.03Z",
+        "Salariés": null,
+        "latitude": "47.226493",
+        "longitude": "-1.586344"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHLOE ROY",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE DES POUPARDIERES 44300 NANTES",
+        "Activité": "96.04Z",
+        "Salariés": null,
+        "latitude": "47.248137",
+        "longitude": "-1.529792"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PIERRE CHAUSSIN (BRASSERIE QUARTIER D'ETE)",
+    "Etablissements": [
+      {
+        "Adresse": "31 RUE DE STRASBOURG 44000 NANTES",
+        "Activité": "68.20A",
+        "Salariés": null,
+        "latitude": "47.219174",
+        "longitude": "-1.554064"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BRASSERIES DE L'ATLANTIQUE (LITTLE ATLANTIQUE BREWERY)",
+    "Etablissements": [
+      {
+        "Adresse": "PARCELLES IK 152 ET K 154 (LOT DE 23 BOULEVARD DE CHANTENAY 44100 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": "12",
+        "latitude": "47.196917",
+        "longitude": "-1.589358"
+      },
+      {
+        "Adresse": "PARCELLE IK 153 23 BOULEVARD DE CHANTENAY 44100 NANTES",
+        "Activité": "52.10B",
+        "Salariés": null,
+        "latitude": "47.196917",
+        "longitude": "-1.589358"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TOUMELIN (TOU)",
+    "Etablissements": [
+      {
+        "Adresse": "22 2 RUE ROBERT LE RICOLAIS 44300 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": null,
+        "latitude": "47.24693",
+        "longitude": "-1.505391"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NANTES BEER CLUB",
+    "Etablissements": [
+      {
+        "Adresse": "54 RUE DE LA DISTILLERIE 44000 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": null,
+        "latitude": "47.224986",
+        "longitude": "-1.556937"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES BIERES DE CHARLOTTE",
+    "Etablissements": [
+      {
+        "Adresse": "121 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": "NN",
+        "latitude": "47.225406",
+        "longitude": "-1.543878"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PLAN BIERE (LES BRASSES)",
+    "Etablissements": [
+      {
+        "Adresse": "24 RUE BELLIER 44000 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": "02",
+        "latitude": "47.221865",
+        "longitude": "-1.527715"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BUBAR (BUBAR - BRASSERIE DE L'ILE DE NANTES)",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE LOUIS BLANC 44200 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": "02",
+        "latitude": "47.206786",
+        "longitude": "-1.554828"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GIPSY BEER (GIPSY BEER)",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DU MARCHE COMMUN 44300 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": null,
+        "latitude": "47.252278",
+        "longitude": "-1.499348"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BRASSERIE COMMUNALE EXTRAORDINAIRE",
+    "Etablissements": [
+      {
+        "Adresse": "121 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "11.05Z",
+        "Salariés": null,
+        "latitude": "47.225406",
+        "longitude": "-1.543878"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DARKA",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE ROBERT LE RICOLAIS 44300 NANTES",
+        "Activité": "11.07B",
+        "Salariés": null,
+        "latitude": "47.24693",
+        "longitude": "-1.505391"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON WAALO (MAISON WAALO) (MW)",
+    "Etablissements": [
+      {
+        "Adresse": "45 QUAI MAGELLAN 44300 NANTES",
+        "Activité": "11.07B",
+        "Salariés": null,
+        "latitude": "47.209738",
+        "longitude": "-1.54665"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CLEMENCE REGNIER (CLEMENCE REGNIER ENNOBLISSEUR)",
+    "Etablissements": [
+      {
+        "Adresse": "73 RUE DE BEL AIR 44000 NANTES",
+        "Activité": "13.10Z",
+        "Salariés": null,
+        "latitude": "47.225099",
+        "longitude": "-1.559198"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARIE ALONZI (MIA'S LITTLE FACTORY)",
+    "Etablissements": [
+      {
+        "Adresse": "195 ROUTE DE VERTOU 44200 NANTES",
+        "Activité": "13.10Z",
+        "Salariés": null,
+        "latitude": "47.184418",
+        "longitude": "-1.523812"
+      }
+    ]
+  },
+  {
+    "Entreprise": "UNION DES APICULTEURS DE LOIRE ATLANTIQUE (UNAPLA)",
+    "Etablissements": [
+      {
+        "Adresse": "1 B RUE FONTAINE DES BARONNIES 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": "01",
+        "latitude": "47.199259",
+        "longitude": "-1.58367"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FELICIANA ANDRADE SOARES",
+    "Etablissements": [
+      {
+        "Adresse": "APP 60 79 RUE DU PORT BOYER 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.24177",
+        "longitude": "-1.54069"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN MARIE LEGEAY",
+    "Etablissements": [
+      {
+        "Adresse": "118 BOULEVARD ERNEST DALBY 44000 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.220959",
+        "longitude": "-1.531564"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL L EXCELLENT",
+    "Etablissements": [
+      {
+        "Adresse": "7 AVENUE DE L'OMBRIE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.254499",
+        "longitude": "-1.561048"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GERARD RULOF",
+    "Etablissements": [
+      {
+        "Adresse": "14 RUE DE MONASTIR 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.205613",
+        "longitude": "-1.597261"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ALMASRI MAHAMAD",
+    "Etablissements": [
+      {
+        "Adresse": "RESIDENCE REFLET DE SEVRE 1 RUE RENE DUNAN 44200 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.193407",
+        "longitude": "-1.537639"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HAMID GROUROU BELAICHE (GROUROU)",
+    "Etablissements": [
+      {
+        "Adresse": "2 ALLEE DES PINSONS 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.209197",
+        "longitude": "-1.609843"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PATRICK CHABLE",
+    "Etablissements": [
+      {
+        "Adresse": "32 RUE MARTINE CAROL 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.233369",
+        "longitude": "-1.514454"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AURELIE AMRI (DAVID)",
+    "Etablissements": [
+      {
+        "Adresse": "APPT 519 13 RUE GUSTAVE EIFFEL 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.256601",
+        "longitude": "-1.51901"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURENT FOUCAULT",
+    "Etablissements": [
+      {
+        "Adresse": "CHEMIN DU LINOT 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.26754",
+        "longitude": "-1.52584"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAROUA BOUTIBA",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE SAMUEL DE CHAMPLAIN 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.261012",
+        "longitude": "-1.573334"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PENELOPE GOURMELON",
+    "Etablissements": [
+      {
+        "Adresse": "9 RUE CONTRESCARPE 44000 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.21481",
+        "longitude": "-1.559447"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAIDA OMAROVA",
+    "Etablissements": [
+      {
+        "Adresse": "33 RUE DE LA RIVETERIE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.241607",
+        "longitude": "-1.51794"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SEBASTIEN CHASSERIAU (LE RUCHER DE ST MARS)",
+    "Etablissements": [
+      {
+        "Adresse": "45 RUE DES GOBELETS 44200 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.190653",
+        "longitude": "-1.52778"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ANNE MONTERAN (LA CABANE A MIEL)",
+    "Etablissements": [
+      {
+        "Adresse": "APP 3 6 RUE DE PORT MARIA 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.278598",
+        "longitude": "-1.511891"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FEDERATION APICOLE BRETAGNE PAYS DE LOIRE (OUEST APICULTURE) (FABPL)",
+    "Etablissements": [
+      {
+        "Adresse": "MAISON DE L APICULTURE 1 B RUE FONTAINE DES BARONNIES 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.199259",
+        "longitude": "-1.58367"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BERNARD JONCHERAY",
+    "Etablissements": [
+      {
+        "Adresse": "12 RUE ANNE MARIE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.23396",
+        "longitude": "-1.506861"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANE THOMAS",
+    "Etablissements": [
+      {
+        "Adresse": "35 BOULEVARD DES POILUS 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.229608",
+        "longitude": "-1.528097"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN FRANCOIS PERRON",
+    "Etablissements": [
+      {
+        "Adresse": "19 RUE DE L'AVENIR 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.24069",
+        "longitude": "-1.528679"
+      }
+    ]
+  },
+  {
+    "Entreprise": "YILDIZ KOCAK",
+    "Etablissements": [
+      {
+        "Adresse": "16 RUE EDMOND BERTREUX 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.224353",
+        "longitude": "-1.599005"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NATHALIE THIOLLET",
+    "Etablissements": [
+      {
+        "Adresse": "10 AVENUE DES DRUIDES 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.238881",
+        "longitude": "-1.50604"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SUZY GADAIS (REDON)",
+    "Etablissements": [
+      {
+        "Adresse": "12 RUE DE TORONTO 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.258228",
+        "longitude": "-1.577552"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOPHIE MIGNOT",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE GEORGES LE MEVEL 44200 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.192844",
+        "longitude": "-1.528763"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICKAEL BERGER",
+    "Etablissements": [
+      {
+        "Adresse": "31 RUE COMMANDANT NOURY 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.215355",
+        "longitude": "-1.58978"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SULAIMAN RKAINI",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE CHARLES DULLIN 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.232255",
+        "longitude": "-1.586784"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FANNY JOUAULT",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE PAUL CLAUDEL 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.252067",
+        "longitude": "-1.567056"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BERNARD GITTON",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DE L'ECHELLE 44000 NANTES",
+        "Activité": "74.5A",
+        "Salariés": null,
+        "latitude": "47.215301",
+        "longitude": "-1.558577"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NELLY BREGEON",
+    "Etablissements": [
+      {
+        "Adresse": "20 RUE JEAN DANAIS 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.214816",
+        "longitude": "-1.591335"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FLORENCE GUILBAUD",
+    "Etablissements": [
+      {
+        "Adresse": "11 BOULEVARD GUSTAVE ROCH 44200 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.204663",
+        "longitude": "-1.54879"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LOIC LE MOINE",
+    "Etablissements": [
+      {
+        "Adresse": "52 RUE DE LA BASTILLE 44000 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.219014",
+        "longitude": "-1.569065"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CLAUDE JAJOLET",
+    "Etablissements": [
+      {
+        "Adresse": "7 AVENUE DE L'AURORE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.265375",
+        "longitude": "-1.583021"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ERIC RULOF (ERIC RULOF)",
+    "Etablissements": [
+      {
+        "Adresse": "2 AVENUE DES NAVIGATEURS 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.201354",
+        "longitude": "-1.599898"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURENT LEDUC",
+    "Etablissements": [
+      {
+        "Adresse": "19 RUE DES SHETLANDS 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.234669",
+        "longitude": "-1.517602"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ECURIE COPDAB (COPDAB)",
+    "Etablissements": [
+      {
+        "Adresse": "3 AVENUE DES SAULES 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.233032",
+        "longitude": "-1.512906"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN BERNARD SIMON",
+    "Etablissements": [
+      {
+        "Adresse": "25 RUE DES FRENES 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.25336",
+        "longitude": "-1.545429"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LUC GOUVERNEUR",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DUGAST MATIFEUX 44000 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.220394",
+        "longitude": "-1.548548"
+      }
+    ]
+  },
+  {
+    "Entreprise": "YVES DEMOLON",
+    "Etablissements": [
+      {
+        "Adresse": "2 BAS CHEMIN DE VERTOU 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.184003",
+        "longitude": "-1.523985"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NICOLAS THORIN",
+    "Etablissements": [
+      {
+        "Adresse": "4 B CHEMIN DES USINES 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.252356",
+        "longitude": "-1.54196"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JOSEPH ROBINEAU",
+    "Etablissements": [
+      {
+        "Adresse": "1 AVENUE BERANGER 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.219188",
+        "longitude": "-1.59227"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARINE CORNIERE",
+    "Etablissements": [
+      {
+        "Adresse": "18 RUE RENE VIVIANI 44200 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.209398",
+        "longitude": "-1.535093"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SOHIR BENDAOUADJI",
+    "Etablissements": [
+      {
+        "Adresse": "APPARTEMENT 110 114 BOULEVARD JULES VERNE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.241859",
+        "longitude": "-1.528791"
+      }
+    ]
+  },
+  {
+    "Entreprise": "NATHALIE LEGRAND (CLAUSIER)",
+    "Etablissements": [
+      {
+        "Adresse": "32 RUE JEAN BAPTISTE GEORGET 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.200404",
+        "longitude": "-1.606653"
+      }
+    ]
+  },
+  {
+    "Entreprise": "THIERRY GUILLOT",
+    "Etablissements": [
+      {
+        "Adresse": "48 RUE MAISDON PAJOT 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.217404",
+        "longitude": "-1.584014"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PATRICK MEAUDE",
+    "Etablissements": [
+      {
+        "Adresse": "152 RUE DES FRENES 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.253261",
+        "longitude": "-1.543842"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARIE ALICE L'HENORET",
+    "Etablissements": [
+      {
+        "Adresse": "29 CHEMIN DU PONCEAU 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.225503",
+        "longitude": "-1.512198"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROMAIN CLAUDEL",
+    "Etablissements": [
+      {
+        "Adresse": "10 RUE HERMANN GEIGER 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.251185",
+        "longitude": "-1.529156"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DENIS ESLAN",
+    "Etablissements": [
+      {
+        "Adresse": "8 AVENUE DE LA PIAUDIERE 44200 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.191343",
+        "longitude": "-1.535581"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROMAIN BOUNATIROU",
+    "Etablissements": [
+      {
+        "Adresse": "13 RUE DE KOUFRA 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.247599",
+        "longitude": "-1.528153"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LESLY ROBIN",
+    "Etablissements": [
+      {
+        "Adresse": "21 BIS 21 CHEMIN DE LA CLARIERE 44300 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.232572",
+        "longitude": "-1.491749"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LAURENCE BARBEDIENNE",
+    "Etablissements": [
+      {
+        "Adresse": "11 PLACE CANCLAUX 44100 NANTES",
+        "Activité": "01.49Z",
+        "Salariés": null,
+        "latitude": "47.214029",
+        "longitude": "-1.574374"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOULANGERIE CLEMENCEAU (LE GEGATELLI)",
+    "Etablissements": [
+      {
+        "Adresse": "48 BOULEVARD WINSTON CHURCHILL 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.208874",
+        "longitude": "-1.610561"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PASCAL VILLENEUVE",
+    "Etablissements": [
+      {
+        "Adresse": "CC FRANCOIS D ASSISE 1 RUE DES RENARDS 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.257144",
+        "longitude": "-1.566159"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AU VIEUX FOUR",
+    "Etablissements": [
+      {
+        "Adresse": "47 BOULEVARD JEAN XXIII 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.231608",
+        "longitude": "-1.575073"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FRANCK PERROCHEAU (CHOCOLATINE)",
+    "Etablissements": [
+      {
+        "Adresse": "22 QUAI DE LA FOSSE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.211213",
+        "longitude": "-1.561193"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GUIBE",
+    "Etablissements": [
+      {
+        "Adresse": "3 PLACE DU VIEUX DOULON 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.235384",
+        "longitude": "-1.503018"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON CHARRIER",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.233683",
+        "longitude": "-1.536251"
+      }
+    ]
+  },
+  {
+    "Entreprise": "A & G DE L'ILE (PAPILLES & GOURMANDISES)",
+    "Etablissements": [
+      {
+        "Adresse": "6-8 6 BOULEVARD GUSTAVE ROCH 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.205112",
+        "longitude": "-1.548222"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LMM",
+    "Etablissements": [
+      {
+        "Adresse": "9 CHAUSSEE DE LA MADELEINE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.211597",
+        "longitude": "-1.551955"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ZELIA",
+    "Etablissements": [
+      {
+        "Adresse": "2 BOULEVARD RENE CASSIN 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.264539",
+        "longitude": "-1.574444"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JALA",
+    "Etablissements": [
+      {
+        "Adresse": "52 BOULEVARD PIERRE DE COUBERTIN 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.228357",
+        "longitude": "-1.586938"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ARNO BOULANGERIE",
+    "Etablissements": [
+      {
+        "Adresse": "16 RUE DE VERDUN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.217055",
+        "longitude": "-1.552424"
+      }
+    ]
+  },
+  {
+    "Entreprise": "OLDU (OLDU)",
+    "Etablissements": [
+      {
+        "Adresse": "36 RUE PIERRE YVERNOGEAU 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.241522",
+        "longitude": "-1.572557"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PP2",
+    "Etablissements": [
+      {
+        "Adresse": "10 BOULEVARD DE LA BEAUJOIRE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.259288",
+        "longitude": "-1.510724"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUDREY CHARZAT (L'AVENTURE PATISSIERE)",
+    "Etablissements": [
+      {
+        "Adresse": "14 RUE JEAN JACQUES ROUSSEAU 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.21293",
+        "longitude": "-1.561488"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PICASSO (LA BOULANGERIE D'HONORE)",
+    "Etablissements": [
+      {
+        "Adresse": "A L'ANGLE DE LA RUE NINA SIMONE ET DU 14 BOULEVARD DE BERLIN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.216614",
+        "longitude": "-1.535207"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MABB",
+    "Etablissements": [
+      {
+        "Adresse": "18 RUE SIMONE DE BEAUVOIR 42 RUE FIRMIN COLAS 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.205146",
+        "longitude": "-1.606419"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA CABANE A PAIN",
+    "Etablissements": [
+      {
+        "Adresse": "67 RUE HECTOR BERLIOZ 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.23947",
+        "longitude": "-1.579296"
+      }
+    ]
+  },
+  {
+    "Entreprise": "L'ARTISAN",
+    "Etablissements": [
+      {
+        "Adresse": "40 RUE DE GIGANT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.214599",
+        "longitude": "-1.572987"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOULANGERIE PATISSERIE NICOLAS LERAY",
+    "Etablissements": [
+      {
+        "Adresse": "118 RUE SAINT JACQUES 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.195792",
+        "longitude": "-1.537007"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAINS ET TRADITIONS (LA BOULANGERIE D'HONORE)",
+    "Etablissements": [
+      {
+        "Adresse": "12 AVENUE CARNOT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.213722",
+        "longitude": "-1.545321"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BROSSARDISE (LA BROSSARDISE)",
+    "Etablissements": [
+      {
+        "Adresse": "111 BOULEVARD DE LA FRATERNITE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.22024",
+        "longitude": "-1.586696"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BOULE CARREE (LA BOULE CARREE)",
+    "Etablissements": [
+      {
+        "Adresse": "ZAC DE LA BOTTIERE-CHENAIS ROUTE DE SAINTE LUCE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.238737",
+        "longitude": "-1.513513"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUX GOURMETS DE LA VANNETIERE",
+    "Etablissements": [
+      {
+        "Adresse": "65 BOULEVARD LELASSEUR 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.229637",
+        "longitude": "-1.571934"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE BIHAN",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DU COUDRAY 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.234443",
+        "longitude": "-1.541399"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GARRIGLIANO (MA BOULANGERIE CAFE)",
+    "Etablissements": [
+      {
+        "Adresse": "2 BOULEVARD GENERAL PIERRE KOENIG 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.198016",
+        "longitude": "-1.606582"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUTOUR DU CAKE",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE DE LA GALISSONNIERE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.214272",
+        "longitude": "-1.565632"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PATISSERIE DE LA GARE",
+    "Etablissements": [
+      {
+        "Adresse": "24 BOULEVARD DE STALINGRAD 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.217983",
+        "longitude": "-1.542531"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LEFEUVRE",
+    "Etablissements": [
+      {
+        "Adresse": "51 RUE DU CORPS DE GARDE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.212946",
+        "longitude": "-1.597601"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BONHEUR DU PAIN",
+    "Etablissements": [
+      {
+        "Adresse": "32 B ROUTE DE LA CHAPELLE SUR ERDRE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.256184",
+        "longitude": "-1.575887"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DANIEL GATINE",
+    "Etablissements": [
+      {
+        "Adresse": "31 RUE DES FRERES AMIEUX 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.200957",
+        "longitude": "-1.610685"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MCH",
+    "Etablissements": [
+      {
+        "Adresse": "10 PLACE DES DERVALLIERES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.223414",
+        "longitude": "-1.598232"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DM2CO",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DE LA CONTRIE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.221453",
+        "longitude": "-1.592846"
+      }
+    ]
+  },
+  {
+    "Entreprise": "FERNANDES SYLVAIN",
+    "Etablissements": [
+      {
+        "Adresse": "22 PLACE VIARME 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.221631",
+        "longitude": "-1.563238"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAIA (BOULANGERIE ANGE)",
+    "Etablissements": [
+      {
+        "Adresse": "CENTRE COMMERCIAL PARIDIS 136 RUE JULES GRANDJOUAN 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.250132",
+        "longitude": "-1.518937"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PASCAL ROUX (LES TROIS LYS)",
+    "Etablissements": [
+      {
+        "Adresse": "6 PLACE CHARLES LECHAT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.203589",
+        "longitude": "-1.581388"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TRADITIONS ET INNOVATIONS (LA BOULANGERIE D HONORE)",
+    "Etablissements": [
+      {
+        "Adresse": "10 BOULEVARD LELASSEUR 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.232963",
+        "longitude": "-1.566706"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAM",
+    "Etablissements": [
+      {
+        "Adresse": "93 ROUTE DE LA CHAPELLE SUR ERDRE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.260399",
+        "longitude": "-1.574929"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAINS & MERVEILLES",
+    "Etablissements": [
+      {
+        "Adresse": "150 RUE GENERAL BUAT 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.226931",
+        "longitude": "-1.542881"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SAS LABARRIE",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE DE LA BARILLERIE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.21543",
+        "longitude": "-1.55514"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA FONTAINE D'AMIRA",
+    "Etablissements": [
+      {
+        "Adresse": "103 BOULEVARD DES ANGLAIS 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.227314",
+        "longitude": "-1.582064"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MB NANTES PREFECTURE",
+    "Etablissements": [
+      {
+        "Adresse": "4 PLACE DU PORT COMMUNEAU 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.219731",
+        "longitude": "-1.554906"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOULANGERIE LA FOURMI",
+    "Etablissements": [
+      {
+        "Adresse": "13 ALLEE DE LA MAISON ROUGE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.212467",
+        "longitude": "-1.552401"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL GONZALEZ-GIRARD (LA BOULANGERIE DE LA BASTILLE)",
+    "Etablissements": [
+      {
+        "Adresse": "20 RUE DE LA BASTILLE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.218573",
+        "longitude": "-1.56526"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DELICES D'ATLANTIQUE",
+    "Etablissements": [
+      {
+        "Adresse": "11 BOULEVARD DU TERTRE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.218352",
+        "longitude": "-1.6036"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CINQ SUR CINQ",
+    "Etablissements": [
+      {
+        "Adresse": "52 BOULEVARD PIERRE DE COUBERTIN 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.228357",
+        "longitude": "-1.586938"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CAMMEWENN",
+    "Etablissements": [
+      {
+        "Adresse": "156 ROUTE DE VANNES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.239113",
+        "longitude": "-1.588849"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GWENAEL MARTIN (AUX DELICES DE MAELISS)",
+    "Etablissements": [
+      {
+        "Adresse": "1 BOULEVARD PASTEUR 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.212156",
+        "longitude": "-1.579494"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CYRILLE BOUE (AU PECHE MIGNON)",
+    "Etablissements": [
+      {
+        "Adresse": "23 RUE DES CARMES 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.216313",
+        "longitude": "-1.555317"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEROME TIJOU (JULIE & JEROME TIJOU)",
+    "Etablissements": [
+      {
+        "Adresse": "25 RUE DES BOURDERIES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.206349",
+        "longitude": "-1.597034"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PASCAL PROVOST",
+    "Etablissements": [
+      {
+        "Adresse": "44 B RUE MAL JOFFRE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.221277",
+        "longitude": "-1.547998"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GRIFFON (LA MADELINE)",
+    "Etablissements": [
+      {
+        "Adresse": "43 CHAUSSEE DE LA MADELEINE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.209645",
+        "longitude": "-1.550411"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHATENET PERE ET FIS",
+    "Etablissements": [
+      {
+        "Adresse": "48 RUE PAUL BERT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.213314",
+        "longitude": "-1.596249"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE FOURNIL BOSSARD",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE PAUL BELLAMY 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "12",
+        "latitude": "47.220896",
+        "longitude": "-1.555576"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHEZ CASIMIR",
+    "Etablissements": [
+      {
+        "Adresse": "12 AVENUE SAINTE ANNE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.20239",
+        "longitude": "-1.578651"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES MAITRES DU PAIN (HONORE LE BOULANGER)",
+    "Etablissements": [
+      {
+        "Adresse": "2 PLACE CATINAT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.212475",
+        "longitude": "-1.572794"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE BON LA CROUTE LA MIE",
+    "Etablissements": [
+      {
+        "Adresse": "18 RUE DES RENARDS 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.254557",
+        "longitude": "-1.565395"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AU PAIN GOURMAND (AU PAIN GOURMAND)",
+    "Etablissements": [
+      {
+        "Adresse": "1 PLACE VICTOR MANGIN 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.201587",
+        "longitude": "-1.54399"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA PANNETIERE DES HAMEAUX 2",
+    "Etablissements": [
+      {
+        "Adresse": "19 RUE DU MARCHE COMMUN 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.258962",
+        "longitude": "-1.50081"
+      }
+    ]
+  },
+  {
+    "Entreprise": "O PETRIN DIVIN",
+    "Etablissements": [
+      {
+        "Adresse": "43 QUAI DE LA FOSSE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.21048",
+        "longitude": "-1.563057"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CERVANTES",
+    "Etablissements": [
+      {
+        "Adresse": "96 ROUTE DE CLISSON 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.190101",
+        "longitude": "-1.520182"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MBTE (BOULANGERIE ZOLA)",
+    "Etablissements": [
+      {
+        "Adresse": "6 PLACE EMILE ZOLA 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.213854",
+        "longitude": "-1.585712"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL JOFFRE",
+    "Etablissements": [
+      {
+        "Adresse": "46 RUE MARECHAL JOFFRE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.221192",
+        "longitude": "-1.548095"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE PETRIN DE LA BOISSIERE",
+    "Etablissements": [
+      {
+        "Adresse": "C.COMMERCIAL DE LA BOISSIERE 1 RUE PAUL CLAUDEL 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.252067",
+        "longitude": "-1.567056"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON JUHEL (MAISON JUHEL)",
+    "Etablissements": [
+      {
+        "Adresse": "90 BOULEVARD ROBERT SCHUMAN 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.238207",
+        "longitude": "-1.570011"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA PATISSERIE DE LA GARE",
+    "Etablissements": [
+      {
+        "Adresse": "24 BOULEVARD DE STALINGRAD 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.217983",
+        "longitude": "-1.542531"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL GARREAU",
+    "Etablissements": [
+      {
+        "Adresse": "38 RUE DES ALOUETTES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.20195",
+        "longitude": "-1.603903"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHRISTOPHE PARVEAU",
+    "Etablissements": [
+      {
+        "Adresse": "67 ROUTE DE VANNES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.235006",
+        "longitude": "-1.582608"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BOULANGERIE DALBY (BOULANGERIE DALBY)",
+    "Etablissements": [
+      {
+        "Adresse": "95 BOULEVARD ERNEST DALBY 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "01",
+        "latitude": "47.221508",
+        "longitude": "-1.531075"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MBC (MBC)",
+    "Etablissements": [
+      {
+        "Adresse": "71 RUE DE LA BOTTIERE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.24023",
+        "longitude": "-1.519047"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON GAIGEARD (LA TA' BLE DES SAVEURS)",
+    "Etablissements": [
+      {
+        "Adresse": "4 RUE DU MOULIN DES ROCHETTES 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.261501",
+        "longitude": "-1.582009"
+      }
+    ]
+  },
+  {
+    "Entreprise": "L.J.B",
+    "Etablissements": [
+      {
+        "Adresse": "6 PLACE ROSA PARKS 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.214388",
+        "longitude": "-1.529187"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TRIPODE GIROUD (HONORE)",
+    "Etablissements": [
+      {
+        "Adresse": "3 RUE FRANCOISE GIROUD 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.208096",
+        "longitude": "-1.53993"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUX FOURNEES DE LA TORTIERE",
+    "Etablissements": [
+      {
+        "Adresse": "147 BOULEVARD DES BELGES 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.235191",
+        "longitude": "-1.546008"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ANTHONY LE DEVORE",
+    "Etablissements": [
+      {
+        "Adresse": "17 RUE DES ECACHOIRS 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.227362",
+        "longitude": "-1.547925"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DPDG SAINT MIHIEL",
+    "Etablissements": [
+      {
+        "Adresse": "2 PLACE CHATEAUBRIAND 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.222963",
+        "longitude": "-1.553513"
+      }
+    ]
+  },
+  {
+    "Entreprise": "GAETAN GREYO (LE FOURNIL DES CHATELETS)",
+    "Etablissements": [
+      {
+        "Adresse": "CENTRE COMMERCIAL DES CHAT RUE ESNOUL DES CHATELETS 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.19614",
+        "longitude": "-1.542641"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL PERE (MISS TARTINE)",
+    "Etablissements": [
+      {
+        "Adresse": "60 BOULEVARD PASTEUR 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.213937",
+        "longitude": "-1.584982"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AU P TIT MAS A PAIN (L'EPI DE BLE)",
+    "Etablissements": [
+      {
+        "Adresse": "4 AVENUE ABEL GANCE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.246792",
+        "longitude": "-1.532498"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL FRANGEUL (LE HANGAR A PAINS)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE LAMORICIERE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.210498",
+        "longitude": "-1.57068"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SECRETS DE FARINE (SECRETS DE FARINE)",
+    "Etablissements": [
+      {
+        "Adresse": "111 BOULEVARD DE LA FRATERNITE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.22024",
+        "longitude": "-1.586696"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LPB",
+    "Etablissements": [
+      {
+        "Adresse": "37 BOULEVARD ROBERT SCHUMAN 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.2351",
+        "longitude": "-1.567529"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CYRILLE BLET (CONFITURE DE LAIT)",
+    "Etablissements": [
+      {
+        "Adresse": "135 BOULEVARD JULES VERNE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.241871",
+        "longitude": "-1.529119"
+      }
+    ]
+  },
+  {
+    "Entreprise": "IRLA",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE DES HAUTS PAVES 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.222383",
+        "longitude": "-1.562904"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BOULANGERIE DU P'TIT PORT (LA BOULANGERIE DU P'TIT PORT)",
+    "Etablissements": [
+      {
+        "Adresse": "89 BOULEVARD GABRIEL LAURIOL 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.240845",
+        "longitude": "-1.557752"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MLB",
+    "Etablissements": [
+      {
+        "Adresse": "37 RUE LEON JAMIN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.21961",
+        "longitude": "-1.559188"
+      },
+      {
+        "Adresse": "71 RUE DE LA BOTTIERE 44300 NANTES",
+        "Activité": "56.21Z",
+        "Salariés": null,
+        "latitude": "47.24023",
+        "longitude": "-1.519047"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CEM (PAINS  BEURRE ET CHOCOLAT)",
+    "Etablissements": [
+      {
+        "Adresse": "10 BOULEVARD AMIRAL COURBET 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.229339",
+        "longitude": "-1.554227"
+      }
+    ]
+  },
+  {
+    "Entreprise": "RENARD BOULANGERIE",
+    "Etablissements": [
+      {
+        "Adresse": "26 RUE JEAN JAURES 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.218314",
+        "longitude": "-1.561821"
+      }
+    ]
+  },
+  {
+    "Entreprise": "B.L.H",
+    "Etablissements": [
+      {
+        "Adresse": "LA BEAUJOIRE CENTRE COMMERCIAL CARREFOUR 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.2619357",
+        "longitude": "6.0643544"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAINS ET GOURMANDISES",
+    "Etablissements": [
+      {
+        "Adresse": "3 RUE DE LA PETITE BARATTE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.248942",
+        "longitude": "-1.52165"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA FOLLE BOULANGERIE",
+    "Etablissements": [
+      {
+        "Adresse": "52 BOULEVARD SAINT AIGNAN 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.208108",
+        "longitude": "-1.578538"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL LE CROQUENBOUCHE (SARL LE CROQUENBOUCHE)",
+    "Etablissements": [
+      {
+        "Adresse": "76 BOULEVARD JULES VERNE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.239767",
+        "longitude": "-1.530937"
+      }
+    ]
+  },
+  {
+    "Entreprise": "SARL PASQUIER (LE BOULANGER DE ST JO)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE BARBARA 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.270443",
+        "longitude": "-1.518997"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BOULE CARREE ELEPHANT (LA BOULE CARREE ELEPHANT)",
+    "Etablissements": [
+      {
+        "Adresse": "BOULEVARD DE LA PRAIRIE AU DUC 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.204293",
+        "longitude": "-1.563428"
+      }
+    ]
+  },
+  {
+    "Entreprise": "THIBAUT GOGUET (BOULANGERIE GOGUET)",
+    "Etablissements": [
+      {
+        "Adresse": "25 RUE DES BOURDERIES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.206349",
+        "longitude": "-1.597034"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON ANTOINE SAINTE-THERESE (MAISON ANTOINE)",
+    "Etablissements": [
+      {
+        "Adresse": "53 BOULEVARD BOULAY PATY 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.231539",
+        "longitude": "-1.576855"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MICHEL PION (AUX DELICES D'AMBRE)",
+    "Etablissements": [
+      {
+        "Adresse": "3 PLACE VICTOR RICHARD 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "NN",
+        "latitude": "47.228382",
+        "longitude": "-1.532586"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MB NANTES - VERDUN",
+    "Etablissements": [
+      {
+        "Adresse": "19 RUE DE VERDUN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.217396",
+        "longitude": "-1.551988"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE TERTRE",
+    "Etablissements": [
+      {
+        "Adresse": "11-13 11 BOULEVARD DU TERTRE 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.218352",
+        "longitude": "-1.6036"
+      }
+    ]
+  },
+  {
+    "Entreprise": "HCD ST JO (JOLUS)",
+    "Etablissements": [
+      {
+        "Adresse": "458 B RTE DE ST JOSEPH 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "03",
+        "latitude": "47.267929",
+        "longitude": "-1.521873"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MB NANTES RACINE",
+    "Etablissements": [
+      {
+        "Adresse": "24 RUE RACINE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.214365",
+        "longitude": "-1.565288"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MB NANTES CARMES",
+    "Etablissements": [
+      {
+        "Adresse": "5 RUE DES CARMES 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "11",
+        "latitude": "47.215908",
+        "longitude": "-1.555148"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAINBAR (PAINBAR)",
+    "Etablissements": [
+      {
+        "Adresse": "5 PLACE DE LA REPUBLIQUE 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.205121",
+        "longitude": "-1.555245"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BEAUJOIRE",
+    "Etablissements": [
+      {
+        "Adresse": "18 ROUTE DE CARQUEFOU 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.261334",
+        "longitude": "-1.517081"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA BOULANGERIE DE MARC ET LAULAU",
+    "Etablissements": [
+      {
+        "Adresse": "139 ROUTE DE VERTOU 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.186315",
+        "longitude": "-1.527468"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ORACLE",
+    "Etablissements": [
+      {
+        "Adresse": "149 ROUTE DE SAINTE LUCE 44300 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.236242",
+        "longitude": "-1.518533"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MARGUERITE",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE GUEPIN 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.216586",
+        "longitude": "-1.55879"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MONSIEUR PAIN (MATA BOULANGERIE)",
+    "Etablissements": [
+      {
+        "Adresse": "6 RUE DE RIEUX 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.210994",
+        "longitude": "-1.545441"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MANAR-FOOD (MF)",
+    "Etablissements": [
+      {
+        "Adresse": "8 PLACE VICTOR MANGIN 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": "02",
+        "latitude": "47.20109",
+        "longitude": "-1.545634"
+      }
+    ]
+  },
+  {
+    "Entreprise": "BONNEAU FABRICE",
+    "Etablissements": [
+      {
+        "Adresse": "11 RUE DES PETITES ECURIES 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.215287",
+        "longitude": "-1.552456"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LE FOURNIL D'ERWAN (LE FOURNIL D'ERWAN)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DE CORNULIER 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.213546",
+        "longitude": "-1.539001"
+      }
+    ]
+  },
+  {
+    "Entreprise": "DESIDERATA",
+    "Etablissements": [
+      {
+        "Adresse": "8 RUE DE GIGANT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.214463",
+        "longitude": "-1.568865"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAINS & MALICE (LE FOURNIL DE LA GALARNE)",
+    "Etablissements": [
+      {
+        "Adresse": "2 PLACE DE LA GALARNE 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.208515",
+        "longitude": "-1.529934"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON DEPARDIEU",
+    "Etablissements": [
+      {
+        "Adresse": "25 RUE DES BOURDERIES 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.206349",
+        "longitude": "-1.597034"
+      }
+    ]
+  },
+  {
+    "Entreprise": "CHANTENAY (CHANTENAY)",
+    "Etablissements": [
+      {
+        "Adresse": "1 RUE GARIBALDI 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.200646",
+        "longitude": "-1.589354"
+      }
+    ]
+  },
+  {
+    "Entreprise": "MAISON ANTOINE LES ANGLAIS (MAISON ANTOINE)",
+    "Etablissements": [
+      {
+        "Adresse": "103 BOULEVARD DES ANGLAIS 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.227314",
+        "longitude": "-1.582064"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LA MAISON DU TALMELIER",
+    "Etablissements": [
+      {
+        "Adresse": "40 RUE DE GIGANT 44100 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.214599027585244",
+        "longitude": "-1.5729869884569392"
+      }
+    ]
+  },
+  {
+    "Entreprise": "JEAN-MICHEL NOZILLET",
+    "Etablissements": [
+      {
+        "Adresse": "11 B QUAI DE LA JONELIERE 44300 NANTES",
+        "Activité": "68.31Z",
+        "Salariés": null,
+        "latitude": "47.253923",
+        "longitude": "-1.540358"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROUSSEAU (LE MOULIN DES SAVEURS)",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE LOUIS BLANC 44200 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.206657",
+        "longitude": "-1.554801"
+      }
+    ]
+  },
+  {
+    "Entreprise": "LES DELICES DU MOULIN",
+    "Etablissements": [
+      {
+        "Adresse": "16 RUE LAMORICIERE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.213061",
+        "longitude": "-1.571605"
+      }
+    ]
+  },
+  {
+    "Entreprise": "PAT-THY",
+    "Etablissements": [
+      {
+        "Adresse": "158 RTE DE SAINTE LUCE 12 IMP ILE DE MOLENE 44000 NANTES",
+        "Activité": "10.71C",
+        "Salariés": null,
+        "latitude": "47.236174",
+        "longitude": "-1.517875"
+      }
+    ]
+  },
+  {
+    "Entreprise": "OLE (LES DELICES DE DOULON)",
+    "Etablissements": [
+      {
+        "Adresse": "54 BOULEVARD LOUIS MILLET 44300 NANTES",
+        "Activité": "10.71D",
+        "Salariés": "03",
+        "latitude": "47.226823",
+        "longitude": "-1.519056"
+      }
+    ]
+  },
+  {
+    "Entreprise": "TASSADIT KHALDI EP CHAREF",
+    "Etablissements": [
+      {
+        "Adresse": "4 SQUARE ARISTIDE BERGES 44300 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.25581",
+        "longitude": "-1.520537"
+      }
+    ]
+  },
+  {
+    "Entreprise": "ROSEMARY",
+    "Etablissements": [
+      {
+        "Adresse": "7 RUE DES HAUTS PAVES 44000 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.222258",
+        "longitude": "-1.562957"
+      }
+    ]
+  },
+  {
+    "Entreprise": "STEPHANIE ZAFISORATRA (CAKE BY FLEUR)",
+    "Etablissements": [
+      {
+        "Adresse": "2 RUE DU POULIGUEN 44300 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.240299",
+        "longitude": "-1.544151"
+      }
+    ]
+  },
+  {
+    "Entreprise": "AUDREY COUTANT (BEURRE NOISETTE)",
+    "Etablissements": [
+      {
+        "Adresse": "MAGMAA FOODHALL 15 RUE LA NOUE BRAS DE FER 44200 NANTES",
+        "Activité": "10.71D",
+        "Salariés": null,
+        "latitude": "47.207108",
+        "longitude": "-1.559563"
+      }
+    ]
+  }
+]

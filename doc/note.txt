@@ -1,0 +1,3 @@
+- soit full API
+- soit crawler qui tourne un peu tout le temps et DB grosse comme mon cul
+- soit focus sur un domaine || filtre pour dégager une partie (genre entreprise < 10 personne, ou format d'entreprise auto/micro-entreprise)
