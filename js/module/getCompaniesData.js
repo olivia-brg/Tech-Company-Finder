@@ -53,10 +53,10 @@ function createParamString(paramName, values) {
 
 function buildURL(page) {
     const activity = createParamString("activite_principale", codeNAF);
-    const allCities = createParamString("code_commune", cityCode);
-    const allEffectif = createParamString("tranche_effectif_salarie", staffSizeCode);
+    const allCities = createParamString("&code_commune", cityCode);
+    const allEffectif = createParamString("&tranche_effectif_salarie", staffSizeCode);
 
-    return `https://recherche-entreprises.api.gouv.fr/search?${activity}&${allCities}&${allEffectif}&page=${page}&per_page=25`;
+    return `https://recherche-entreprises.api.gouv.fr/search?${activity}${allCities}${allEffectif}&page=${page}&per_page=25`;
 }
 
 async function getCompany(page) {
